@@ -38,7 +38,7 @@
   <tr>
     <td width="50%" valign="top">
       <h4>🏆 2nd Place @ KRITI Hackathon</h4>
-      <a href="https://github.com/ravishkansal22/Mandi-Quant"><b>Mandi Quant</b></a>
+      <a href="https://github.com/mrudduni/fasal-nirnay"><b>Mandi Quant</b></a>
       <p>Quantitative agritech platform for market transparency and price prediction.</p>
       <code>Python</code> <code>TensorFlow</code> <code>ML</code>
     </td>
@@ -52,13 +52,13 @@
   <tr>
     <td width="50%" valign="top">
       <h4>📈 Predictive Modeling</h4>
-      <a href="https://github.com/ravishkansal22/AlphaStocks-AI"><b>AlphaStocks AI</b></a>
+      <a href="https://github.com/ravishkansal22/Smart-Stocks-Predictor"><b>AlphaStocks AI</b></a>
       <p>Smart stock predictor utilizing machine learning for financial forecasting.</p>
       <code>LSTMs</code> <code>NumPy</code> <code>Pandas</code>
     </td>
     <td width="50%" valign="top">
       <h4>🚁 Robotics & Hardware</h4>
-      <a href="https://github.com/ravishkansal22/Gesture-Drone-Control"><b>Gesture Drone Control</b></a>
+      <a href="https://github.com/ravishkansal22/gesture_controlled_drone"><b>Gesture Drone Control</b></a>
       <p>Integrating computer vision backends with physical drone hardware and flight controllers.</p>
       <code>C++</code> <code>Arduino</code> <code>Robotics</code>
     </td>
