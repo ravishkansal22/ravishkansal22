@@ -30,7 +30,7 @@
 
 ---
 
-### 💻 Featured Projects
+### 💻 Featured Work & Achievements
 
 <table>
   <tr>
@@ -38,15 +38,13 @@
       <a href="https://github.com/ravishkansal22/Mandi-Quant">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=ravishkansal22&repo=Mandi-Quant&theme=tokyonight" alt="Mandi Quant" />
       </a>
-      <br />
-      <b>🏆 2nd Place @ KRITI Hackathon</b>
+      <br />🏆 <b>2nd Place @ KRITI Hackathon</b>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/ravishkansal22/GestureOS">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=ravishkansal22&repo=GestureOS&theme=tokyonight" alt="GestureOS" />
       </a>
-      <br />
-      <b>👋 Computer Vision Interface</b>
+      <br />👋 <b>Computer Vision Interface</b>
     </td>
   </tr>
   <tr>
@@ -54,15 +52,13 @@
       <a href="https://github.com/ravishkansal22/AlphaStocks-AI">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=ravishkansal22&repo=AlphaStocks-AI&theme=tokyonight" alt="AlphaStocks AI" />
       </a>
-      <br />
-      <b>📈 Predictive Modeling</b>
+      <br />📈 <b>Predictive Modeling</b>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/ravishkansal22/Gesture-Drone-Control">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=ravishkansal22&repo=Gesture-Drone-Control&theme=tokyonight" alt="Gesture Drone Control" />
       </a>
-      <br />
-      <b>🚁 Robotics & Hardware</b>
+      <br />🚁 <b>Robotics & Hardware</b>
     </td>
   </tr>
 </table>
