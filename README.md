@@ -1,4 +1,8 @@
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hey+there!+I'm+Ravish+Kansal;Machine+Learning+Developer;Robotics+Enthusiast;DTU+Student" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=700&size=35&pause=1000&color=00D1FF&width=600&lines=Hey+there!+I'm+Ravish+Kansal;Machine+Learning+Specialist;Building+the+Future+with+AI;Robotics+at+DTU" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ravish-kansal-7a86b4376/">
