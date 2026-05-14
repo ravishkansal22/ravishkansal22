@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Ravish! 👋
 
-<!--
-**ravishkansal22/ravishkansal22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+* 🎓 **B.Tech @ DTU** — focusing on high-performance systems and innovation.
+* 🔥 **Passionate about AI & ML** — turning data into predictive power with Python, NumPy, and TensorFlow.
+* 🤖 **Robotics Enthusiast** — building everything from gesture-controlled drones to competitive bots.
+* 🏆 **Hackathon Runner** — 2nd place @ KRITI Social Impact Hackathon (BITS Pilani).
+* 🧠 **Active in AIMS-DTU** — contributing to AI research and the student developer community.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
+> "Logic will get you from A to B. Imagination will take you everywhere."
