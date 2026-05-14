@@ -23,7 +23,19 @@
 * 🧠 **Active in AIMS-DTU** — contributing to AI research and the student developer community.
 
 ---
-
+### 🚀 Featured Projects
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ravishkansal22&repo=Mandi-Quant&theme=tokyonight" />
+      <p align="center"><b>2nd Place @ KRITI Hackathon</b></p>
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ravishkansal22&repo=GestureOS&theme=tokyonight" />
+      <p align="center"><b>CV-based OS Control</b></p>
+    </td>
+  </tr>
+</table>
 ### 🛠 Tech Stack
 ### 🤖 Artificial Intelligence & Machine Learning
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
