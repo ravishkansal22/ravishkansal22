@@ -30,38 +30,27 @@
 
 ---
 
-### 💻 Featured Work & Achievements
+---
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/ravishkansal22/Mandi-Quant">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ravishkansal22&repo=Mandi-Quant&theme=tokyonight" alt="Mandi Quant" />
-      </a>
-      <br />🏆 <b>2nd Place @ KRITI Hackathon</b>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/ravishkansal22/GestureOS">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ravishkansal22&repo=GestureOS&theme=tokyonight" alt="GestureOS" />
-      </a>
-      <br />👋 <b>Computer Vision Interface</b>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/ravishkansal22/AlphaStocks-AI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ravishkansal22&repo=AlphaStocks-AI&theme=tokyonight" alt="AlphaStocks AI" />
-      </a>
-      <br />📈 <b>Predictive Modeling</b>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/ravishkansal22/Gesture-Drone-Control">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ravishkansal22&repo=Gesture-Drone-Control&theme=tokyonight" alt="Gesture Drone Control" />
-      </a>
-      <br />🚁 <b>Robotics & Hardware</b>
-    </td>
-  </tr>
-</table>
+### 💻 Featured Projects & Achievements
+
+* 🏆 **2nd Place @ KRITI Hackathon** — [**Mandi Quant**](https://github.com/ravishkansal22/Mandi-Quant)
+  > Quantitative agritech platform for market transparency and price prediction.
+  > `Python` `TensorFlow` `Scikit-Learn`
+
+* 👋 **Computer Vision Interface** — [**GestureOS**](https://github.com/ravishkansal22/GestureOS)
+  > Controlling web interfaces through custom-trained hand gestures.
+  > `OpenCV` `MediaPipe` `Flask`
+
+* 📈 **Predictive Modeling** — [**AlphaStocks AI**](https://github.com/ravishkansal22/AlphaStocks-AI)
+  > Smart stock predictor utilizing machine learning for financial forecasting.
+  > `LSTMs` `NumPy` `Pandas`
+
+* 🚁 **Robotics & Hardware** — [**Gesture Drone Control**](https://github.com/ravishkansal22/Gesture-Drone-Control)
+  > Integrating computer vision backends with physical drone hardware.
+  > `C++` `Robotics` `Hardware-Integration`
+
+---
 
 ### 🛠 Tech Stack
 ### 🤖 Artificial Intelligence & Machine Learning
