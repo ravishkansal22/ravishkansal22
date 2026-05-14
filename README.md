@@ -1,4 +1,6 @@
-<p align="left">
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hey+there!+I'm+Ravish+Kansal;Machine+Learning+Developer;Robotics+Enthusiast;DTU+Student" alt="Typing SVG" /></a>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/ravish-kansal-7a86b4376/">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -7,7 +9,7 @@
   </a>
 </p>
 
-# Hi, I'm Ravish! 👋
+
 
 ### 👨‍💻 About Me
 * 🎓 **B.Tech @ DTU** — focusing on high-performance systems and innovation.
