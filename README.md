@@ -1,3 +1,12 @@
+<p align="left">
+  <a href="https://www.linkedin.com/in/ravish-kansal-7a86b4376/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ravishkansal22@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
 # Hi, I'm Ravish! 👋
 
 ### 👨‍💻 About Me
