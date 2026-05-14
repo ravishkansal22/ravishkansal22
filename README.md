@@ -34,21 +34,36 @@
 
 ### 💻 Featured Projects & Achievements
 
-* 🏆 **2nd Place @ KRITI Hackathon** — [**Mandi Quant**](https://github.com/ravishkansal22/Mandi-Quant)
-  > Quantitative agritech platform for market transparency and price prediction.
-  > `Python` `TensorFlow` `Scikit-Learn`
-
-* 👋 **Computer Vision Interface** — [**GestureOS**](https://github.com/ravishkansal22/GestureOS)
-  > Controlling web interfaces through custom-trained hand gestures.
-  > `OpenCV` `MediaPipe` `Flask`
-
-* 📈 **Predictive Modeling** — [**AlphaStocks AI**](https://github.com/ravishkansal22/AlphaStocks-AI)
-  > Smart stock predictor utilizing machine learning for financial forecasting.
-  > `LSTMs` `NumPy` `Pandas`
-
-* 🚁 **Robotics & Hardware** — [**Gesture Drone Control**](https://github.com/ravishkansal22/Gesture-Drone-Control)
-  > Integrating computer vision backends with physical drone hardware.
-  > `C++` `Robotics` `Hardware-Integration`
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏆 2nd Place @ KRITI Hackathon</h4>
+      <a href="https://github.com/ravishkansal22/Mandi-Quant"><b>Mandi Quant</b></a>
+      <p>Quantitative agritech platform for market transparency and price prediction.</p>
+      <code>Python</code> <code>TensorFlow</code> <code>ML</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>👋 Computer Vision Interface</h4>
+      <a href="https://github.com/ravishkansal22/GestureOS"><b>GestureOS</b></a>
+      <p>Controlling web interfaces through custom-trained hand gestures in real-time.</p>
+      <code>OpenCV</code> <code>MediaPipe</code> <code>Flask</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📈 Predictive Modeling</h4>
+      <a href="https://github.com/ravishkansal22/AlphaStocks-AI"><b>AlphaStocks AI</b></a>
+      <p>Smart stock predictor utilizing machine learning for financial forecasting.</p>
+      <code>LSTMs</code> <code>NumPy</code> <code>Pandas</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🚁 Robotics & Hardware</h4>
+      <a href="https://github.com/ravishkansal22/Gesture-Drone-Control"><b>Gesture Drone Control</b></a>
+      <p>Integrating computer vision backends with physical drone hardware and flight controllers.</p>
+      <code>C++</code> <code>Arduino</code> <code>Robotics</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
