@@ -22,17 +22,41 @@
 * 🏆 **Hackathon Runner** — 2nd place @ KRITI Social Impact Hackathon (BITS Pilani).
 * 🧠 **Active in AIMS-DTU** — contributing to AI research and the student developer community.
 
+---### 🏆 Milestone Achievements
+> **Runner Up (2nd Place) @ KRITI Social Impact Hackathon** (BITS Pilani)  
+> *Developed **Mandi Quant**, a quantitative analysis platform for agritech market transparency.*
+
 ---
-### 🚀 Featured Projects
+
+### 💻 Featured Work
+
 <table>
   <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ravishkansal22&repo=Mandi-Quant&theme=tokyonight" />
-      <p align="center"><b>2nd Place @ KRITI Hackathon</b></p>
+    <td width="50%" valign="top">
+      <h4>🌾 Mandi Quant</h4>
+      <img src="https://via.placeholder.com/400x200?text=Mandi+Quant+Dashboard" alt="Mandi Quant" width="100%"/>
+      <p>An agritech platform using "Wall Street logic" to provide real-time price predictions and market insights for farmers in the NCR region.</p>
+      <code>Python</code> <code>TensorFlow</code> <code>Scikit-learn</code>
     </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ravishkansal22&repo=GestureOS&theme=tokyonight" />
-      <p align="center"><b>CV-based OS Control</b></p>
+    <td width="50%" valign="top">
+      <h4>👋 GestureOS</h4>
+      <img src="https://via.placeholder.com/400x200?text=GestureOS+Demo" alt="GestureOS" width="100%"/>
+      <p>A Computer Vision project that allows users to control their entire website interface through custom-trained hand gestures.</p>
+      <code>OpenCV</code> <code>MediaPipe</code> <code>Flask</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📈 AlphaStocks AI</h4>
+      <img src="https://via.placeholder.com/400x200?text=Stocks+Prediction+Graph" alt="Stocks Predictor" width="100%"/>
+      <p>A smart stock market predictor using LSTM-XGBoost hybrids to analyze and forecast financial trends.</p>
+      <code>NumPy</code> <code>Pandas</code> <code>Predictive Modeling</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🚁 Gesture-Controlled Drone</h4>
+      <img src="https://via.placeholder.com/400x200?text=Drone+Robotics+Setup" alt="Drone Control" width="100%"/>
+      <p>Integrating hardware and software to pilot a drone using hand gestures and computer vision backends.</p>
+      <code>Robotics</code> <code>C++</code> <code>Hardware Integration</code>
     </td>
   </tr>
 </table>
