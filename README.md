@@ -30,35 +30,39 @@
 
 ---
 
-### 💻 Featured Work
+### 💻 Featured Projects
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h4>🌾 Mandi Quant</h4>
-      <img src="https://via.placeholder.com/400x200?text=Mandi+Quant+Dashboard" alt="Mandi Quant" width="100%"/>
-      <p>An agritech platform using "Wall Street logic" to provide real-time price predictions and market insights for farmers in the NCR region.</p>
-      <code>Python</code> <code>TensorFlow</code> <code>Scikit-learn</code>
+    <td width="50%" align="center">
+      <a href="https://github.com/ravishkansal22/Mandi-Quant">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ravishkansal22&repo=Mandi-Quant&theme=tokyonight" alt="Mandi Quant" />
+      </a>
+      <br />
+      <b>🏆 2nd Place @ KRITI Hackathon</b>
     </td>
-    <td width="50%" valign="top">
-      <h4>👋 GestureOS</h4>
-      <img src="https://via.placeholder.com/400x200?text=GestureOS+Demo" alt="GestureOS" width="100%"/>
-      <p>A Computer Vision project that allows users to control their entire website interface through custom-trained hand gestures.</p>
-      <code>OpenCV</code> <code>MediaPipe</code> <code>Flask</code>
+    <td width="50%" align="center">
+      <a href="https://github.com/ravishkansal22/GestureOS">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ravishkansal22&repo=GestureOS&theme=tokyonight" alt="GestureOS" />
+      </a>
+      <br />
+      <b>👋 Computer Vision Interface</b>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h4>📈 AlphaStocks AI</h4>
-      <img src="https://via.placeholder.com/400x200?text=Stocks+Prediction+Graph" alt="Stocks Predictor" width="100%"/>
-      <p>A smart stock market predictor using LSTM-XGBoost hybrids to analyze and forecast financial trends.</p>
-      <code>NumPy</code> <code>Pandas</code> <code>Predictive Modeling</code>
+    <td width="50%" align="center">
+      <a href="https://github.com/ravishkansal22/AlphaStocks-AI">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ravishkansal22&repo=AlphaStocks-AI&theme=tokyonight" alt="AlphaStocks AI" />
+      </a>
+      <br />
+      <b>📈 Predictive Modeling</b>
     </td>
-    <td width="50%" valign="top">
-      <h4>🚁 Gesture-Controlled Drone</h4>
-      <img src="https://via.placeholder.com/400x200?text=Drone+Robotics+Setup" alt="Drone Control" width="100%"/>
-      <p>Integrating hardware and software to pilot a drone using hand gestures and computer vision backends.</p>
-      <code>Robotics</code> <code>C++</code> <code>Hardware Integration</code>
+    <td width="50%" align="center">
+      <a href="https://github.com/ravishkansal22/Gesture-Drone-Control">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ravishkansal22&repo=Gesture-Drone-Control&theme=tokyonight" alt="Gesture Drone Control" />
+      </a>
+      <br />
+      <b>🚁 Robotics & Hardware</b>
     </td>
   </tr>
 </table>
