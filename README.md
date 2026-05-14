@@ -22,7 +22,9 @@
 * 🏆 **Hackathon Runner** — 2nd place @ KRITI Social Impact Hackathon (BITS Pilani).
 * 🧠 **Active in AIMS-DTU** — contributing to AI research and the student developer community.
 
----### 🏆 Milestone Achievements
+---
+
+### 🏆 Milestone Achievements
 > **Runner Up (2nd Place) @ KRITI Social Impact Hackathon** (BITS Pilani)  
 > *Developed **Mandi Quant**, a quantitative analysis platform for agritech market transparency.*
 
