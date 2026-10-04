@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 120" width="100%" height="100%">
+  <defs>
+    <linearGradient id="boxGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#161B22"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+  <rect width="100%" height="100%" fill="#0D1117" rx="8" stroke="#30363D" stroke-width="1.2"/>
+  <text x="20" y="24" fill="#8B949E" font-family="ui-monospace, monospace" font-size="11" font-weight="600">> SYSTEM PIPELINE: SCIENTIFIC KNOWLEDGE EXTRACTION &amp; DISCOVERY</text>
+  
+  <g transform="translate(15, 38)">
+    <!-- Step 1 -->
+    <rect x="0" y="0" width="115" height="56" rx="6" fill="url(#boxGrad)" stroke="#30363D" stroke-width="1"/>
+    <text x="10" y="22" fill="#58A6FF" font-family="ui-monospace, monospace" font-size="10" font-weight="700">01. INGESTION</text>
+    <text x="10" y="38" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="9.5">Literature &amp; Data</text>
+    <text x="10" y="49" fill="#8B949E" font-family="ui-monospace, monospace" font-size="8.5">PDFs / Papers / DB</text>
+
+    <!-- Arrow 1 -->
+    <path d="M 120 28 L 135 28" stroke="#58A6FF" stroke-width="1.5" stroke-dasharray="2,2"/>
+    <polygon points="135,28 131,25 131,31" fill="#58A6FF"/>
+
+    <!-- Step 2 -->
+    <rect x="140" y="0" width="125" height="56" rx="6" fill="url(#boxGrad)" stroke="#30363D" stroke-width="1"/>
+    <text x="150" y="22" fill="#7EE787" font-family="ui-monospace, monospace" font-size="10" font-weight="700">02. EXTRACTION</text>
+    <text x="150" y="38" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="9.5">Entities &amp; Claims</text>
+    <text x="150" y="49" fill="#8B949E" font-family="ui-monospace, monospace" font-size="8.5">Methods / Findings</text>
+
+    <!-- Arrow 2 -->
+    <path d="M 270 28 L 285 28" stroke="#7EE787" stroke-width="1.5" stroke-dasharray="2,2"/>
+    <polygon points="285,28 281,25 281,31" fill="#7EE787"/>
+
+    <!-- Step 3 -->
+    <rect x="290" y="0" width="130" height="56" rx="6" fill="url(#boxGrad)" stroke="#30363D" stroke-width="1"/>
+    <text x="300" y="22" fill="#58A6FF" font-family="ui-monospace, monospace" font-size="10" font-weight="700">03. GRAPH MODEL</text>
+    <text x="300" y="38" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="9.5">Knowledge Graph</text>
+    <text x="300" y="49" fill="#8B949E" font-family="ui-monospace, monospace" font-size="8.5">Entity Relations</text>
+
+    <!-- Arrow 3 -->
+    <path d="M 425 28 L 440 28" stroke="#58A6FF" stroke-width="1.5" stroke-dasharray="2,2"/>
+    <polygon points="440,28 436,25 436,31" fill="#58A6FF"/>
+
+    <!-- Step 4 -->
+    <rect x="445" y="0" width="125" height="56" rx="6" fill="url(#boxGrad)" stroke="#30363D" stroke-width="1"/>
+    <text x="455" y="22" fill="#F0883E" font-family="ui-monospace, monospace" font-size="10" font-weight="700">04. DISCOVERY</text>
+    <text x="455" y="38" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="9.5">Pattern Detection</text>
+    <text x="455" y="49" fill="#8B949E" font-family="ui-monospace, monospace" font-size="8.5">Cross-Domain Links</text>
+
+    <!-- Arrow 4 -->
+    <path d="M 575 28 L 590 28" stroke="#F0883E" stroke-width="1.5" stroke-dasharray="2,2"/>
+    <polygon points="590,28 586,25 586,31" fill="#F0883E"/>
+
+    <!-- Step 5 -->
+    <rect x="595" y="0" width="125" height="56" rx="6" fill="url(#boxGrad)" stroke="#30363D" stroke-width="1"/>
+    <text x="605" y="22" fill="#D29922" font-family="ui-monospace, monospace" font-size="10" font-weight="700">05. GAP VERIFY</text>
+    <text x="605" y="38" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="9.5">Novelty &amp; Dead-ends</text>
+    <text x="605" y="49" fill="#8B949E" font-family="ui-monospace, monospace" font-size="8.5">Negative Knowledge</text>
+
+    <!-- Arrow 5 -->
+    <path d="M 725 28 L 740 28" stroke="#D29922" stroke-width="1.5" stroke-dasharray="2,2"/>
+    <polygon points="740,28 736,25 736,31" fill="#D29922"/>
+
+    <!-- Step 6 -->
+    <rect x="745" y="0" width="105" height="56" rx="6" fill="url(#boxGrad)" stroke="#1F6FEB" stroke-width="1.2"/>
+    <text x="753" y="22" fill="#7EE787" font-family="ui-monospace, monospace" font-size="10" font-weight="700">06. HYPOTHESIS</text>
+    <text x="753" y="38" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="9.5">Autonomous AI</text>
+    <text x="753" y="49" fill="#8B949E" font-family="ui-monospace, monospace" font-size="8.5">Validation Loop</text>
+  </g>
+</svg>
