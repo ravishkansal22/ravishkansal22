@@ -57,24 +57,66 @@
 
 <br/>
 
+### ~/ experience
+
+<table width="100%" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px;">
+  <tr>
+    <td style="background-color: #0D1117; padding: 22px 26px;">
+      <div style="font-family: 'Fira Code', monospace; font-size: 11.5px; color: #8B949E; margin-bottom: 12px;">
+        <span style="color: #58A6FF; font-weight: bold;">&gt; role.exe --status=active</span>
+        &nbsp;&nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;&nbsp;&nbsp;
+        <span style="color: #7EE787; font-weight: 600;">● ACTIVE · 2026</span>
+      </div>
+      
+      <h2 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 24px; font-weight: 800; color: #FFFFFF; margin: 4px 0 4px 0; letter-spacing: -0.3px; border: none; padding: 0;">
+        SDET INTERN
+      </h2>
+      
+      <div style="font-family: 'Fira Code', monospace; font-size: 14.5px; font-weight: 600; color: #58A6FF; margin-bottom: 4px;">
+        Autoload AI Systems Pvt. Ltd.
+      </div>
+
+      <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12.5px; color: #8B949E; margin-bottom: 14px;">
+        Software Engineering · Test Automation · System Reliability
+      </div>
+
+      <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; color: #C9D1D9; line-height: 1.6; margin: 12px 0 16px 0;">
+        Software testing, automation, performance scripting, and software reliability/scalability.
+      </div>
+
+      <div>
+        <img src="https://img.shields.io/badge/%E2%97%8F_TEST_AUTOMATION-161B22?style=flat-square&color=21262D&labelColor=161B22&logoColor=58A6FF" alt="TEST AUTOMATION" />
+        <img src="https://img.shields.io/badge/%E2%97%8F_SOFTWARE_TESTING-161B22?style=flat-square&color=21262D&labelColor=161B22&logoColor=58A6FF" alt="SOFTWARE TESTING" />
+        <img src="https://img.shields.io/badge/%E2%97%8F_PERFORMANCE-161B22?style=flat-square&color=21262D&labelColor=161B22&logoColor=58A6FF" alt="PERFORMANCE" />
+        <img src="https://img.shields.io/badge/%E2%97%8F_RELIABILITY-161B22?style=flat-square&color=21262D&labelColor=161B22&logoColor=58A6FF" alt="RELIABILITY" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 ### ~/ research
 
 <table width="100%" style="border-collapse: separate; border-spacing: 14px; background-color: transparent;">
   <tr>
-    <td width="33.3%" valign="top" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px; padding: 18px 16px;">
-      <div style="font-family: 'Fira Code', monospace; font-size: 11px; color: #58A6FF; font-weight: bold; margin-bottom: 8px;">01. RESEARCH GRAPHS</div>
+    <td width="33.3%" valign="top" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px; padding: 20px 18px;">
+      <div style="font-family: 'Fira Code', monospace; font-size: 11px; color: #58A6FF; font-weight: bold; margin-bottom: 4px;">01 / KNOWLEDGE REPRESENTATION</div>
+      <div style="font-family: 'Fira Code', monospace; font-size: 14px; font-weight: bold; color: #FFFFFF; margin-bottom: 8px;">RESEARCH GRAPHS</div>
       <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12.5px; color: #C9D1D9; line-height: 1.55;">
         Building systems that extract scientific knowledge and relationships from literature into queryable research graphs.
       </div>
     </td>
-    <td width="33.3%" valign="top" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px; padding: 18px 16px;">
-      <div style="font-family: 'Fira Code', monospace; font-size: 11px; color: #7EE787; font-weight: bold; margin-bottom: 8px;">02. AGENTIC AI &amp; RAG</div>
+    <td width="33.3%" valign="top" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px; padding: 20px 18px;">
+      <div style="font-family: 'Fira Code', monospace; font-size: 11px; color: #7EE787; font-weight: bold; margin-bottom: 4px;">02 / REASONING &amp; RETRIEVAL</div>
+      <div style="font-family: 'Fira Code', monospace; font-size: 14px; font-weight: bold; color: #FFFFFF; margin-bottom: 8px;">AGENTIC AI &amp; RAG</div>
       <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12.5px; color: #C9D1D9; line-height: 1.55;">
         Building retrieval and agentic systems for reasoning over large document collections.
       </div>
     </td>
-    <td width="33.3%" valign="top" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px; padding: 18px 16px;">
-      <div style="font-family: 'Fira Code', monospace; font-size: 11px; color: #F0883E; font-weight: bold; margin-bottom: 8px;">03. MULTIMODAL &amp; AUDIO AI</div>
+    <td width="33.3%" valign="top" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px; padding: 20px 18px;">
+      <div style="font-family: 'Fira Code', monospace; font-size: 11px; color: #F0883E; font-weight: bold; margin-bottom: 4px;">03 / MULTIMODAL SYSTEMS</div>
+      <div style="font-family: 'Fira Code', monospace; font-size: 14px; font-weight: bold; color: #FFFFFF; margin-bottom: 8px;">MULTIMODAL &amp; AUDIO AI</div>
       <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12.5px; color: #C9D1D9; line-height: 1.55;">
         Exploring deep-learning systems for speech separation and multimodal human-computer interaction.
       </div>
@@ -84,38 +126,7 @@
 
 <br/>
 
-### Experience
-
-<table width="100%" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px; border-collapse: collapse;">
-  <thead>
-    <tr style="border-bottom: 1px solid #30363D; background-color: #161B22;">
-      <th width="15%" align="left" style="padding: 12px 16px; font-family: 'Fira Code', monospace; font-size: 11.5px; color: #8B949E; font-weight: bold;">ROLE</th>
-      <th width="22%" align="left" style="padding: 12px 16px; font-family: 'Fira Code', monospace; font-size: 11.5px; color: #8B949E; font-weight: bold;">COMPANY</th>
-      <th width="10%" align="left" style="padding: 12px 16px; font-family: 'Fira Code', monospace; font-size: 11.5px; color: #8B949E; font-weight: bold;">YEAR</th>
-      <th width="53%" align="left" style="padding: 12px 16px; font-family: 'Fira Code', monospace; font-size: 11.5px; color: #8B949E; font-weight: bold;">FOCUS</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td valign="top" style="padding: 16px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12.5px; color: #FFFFFF; font-weight: bold;">
-        SDET Intern
-      </td>
-      <td valign="top" style="padding: 16px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12.5px; color: #C9D1D9;">
-        Autoload AI Systems Pvt. Ltd.
-      </td>
-      <td valign="top" style="padding: 16px; font-family: 'Fira Code', monospace; font-size: 12px; color: #8B949E;">
-        2026
-      </td>
-      <td valign="top" style="padding: 16px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12.5px; color: #C9D1D9; line-height: 1.55;">
-        Software testing, automation, performance scripting, and software reliability/scalability.
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<br/>
-
-### ~/ selected work
+### ~/ selected-work
 
 <table width="100%" style="border-collapse: separate; border-spacing: 14px; background-color: transparent;">
   <tr>
@@ -218,7 +229,7 @@
 
 <br/>
 
-### ~/ skill radar
+### ~/ stack
 
 <table width="100%" style="background-color: transparent; border: none;">
   <tr>
@@ -251,7 +262,7 @@
 
 <br/>
 
-### ~/ open questions
+### ~/ open-questions
 
 ```text
 01 - How can an AI system construct a continuously evolving graph of scientific knowledge from literature?
@@ -264,7 +275,7 @@
 
 <br/>
 
-### ~/ network &amp; comms
+### ~/ comms
 
 <table width="100%" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px; padding: 14px;">
   <tr>
