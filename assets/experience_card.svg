@@ -1,17 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 220" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 220" width="880" height="220">
   <defs>
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#161B22"/>
       <stop offset="100%" stop-color="#0D1117"/>
     </linearGradient>
-    <linearGradient id="blueGlow" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#1F6FEB" stop-opacity="0.3"/>
-      <stop offset="100%" stop-color="#58A6FF" stop-opacity="0.05"/>
-    </linearGradient>
   </defs>
 
   <!-- Card Background -->
-  <rect width="100%" height="100%" fill="#0D1117" rx="10" stroke="#30363D" stroke-width="1.5"/>
+  <rect width="880" height="220" fill="#0D1117" rx="10" stroke="#30363D" stroke-width="1.5"/>
   <rect x="6" y="6" width="868" height="208" rx="8" fill="url(#bgGrad)" stroke="#1F6FEB" stroke-width="1" opacity="0.3"/>
 
   <!-- Top Bar -->
@@ -28,7 +24,7 @@
   <!-- Title & Company -->
   <g transform="translate(24, 62)">
     <text x="0" y="0" fill="#F0F6FC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700">SDET Intern</text>
-    <text x="105" y="0" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="400">&mdash;</text>
+    <text x="105" y="0" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="400">&#8212;</text>
     <text x="125" y="0" fill="#58A6FF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600">Autoload AI Systems Pvt. Ltd.</text>
   </g>
 
@@ -36,7 +32,7 @@
   <g transform="translate(24, 86)">
     <text x="0" y="0" fill="#8B949E" font-family="ui-monospace, monospace" font-size="11" font-weight="600">DOMAIN:</text>
     <text x="58" y="0" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11.5">Software Engineering &amp; Quality Infrastructure</text>
-    <text x="360" y="0" fill="#30363D" font-size="12">&bull;</text>
+    <text x="360" y="0" fill="#30363D" font-size="12">&#8226;</text>
     <text x="375" y="0" fill="#8B949E" font-family="ui-monospace, monospace" font-size="11" font-weight="600">FOCUS:</text>
     <text x="425" y="0" fill="#C9D1D9" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11.5">System Reliability &amp; Automated Validation</text>
   </g>
