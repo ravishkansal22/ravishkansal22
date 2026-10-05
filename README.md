@@ -32,10 +32,10 @@
 
 <hr/>
 
-▸ 📍 **Location:** Delhi / NCR, India<br/>
-▸ 🏛️ **Affiliation:** Delhi Technological University (DTU) — B.Tech (ME)<br/>
-▸ 🔬 **Core Domains:** AI/ML · LLM Systems · Agentic Workflows · Knowledge Graphs<br/>
-▸ ⚡ **Active Focus:** `ResearchGraph` · Deep Learning Systems · Multimodal / Audio AI
+▸  **Location:** Delhi / NCR, India<br/>
+▸  **Affiliation:** Delhi Technological University (DTU) — B.Tech (ME)<br/>
+▸  **Core Domains:** AI/ML · LLM Systems · Agentic Workflows · Knowledge Graphs<br/>
+▸  **Active Focus:** `ResearchGraph` · Deep Learning Systems · Multimodal / Audio AI
 
 <hr/>
 
