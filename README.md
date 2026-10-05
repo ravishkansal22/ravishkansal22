@@ -2,7 +2,7 @@
 
 # Ravish Kansal
 
-**AI/ML Engineer & Systems Researcher**  
+**AI/ML Systems Engineer & Researcher**  
 *Delhi Technological University (DTU)*
 
 <br/>
@@ -26,11 +26,11 @@
 
 ### Overview
 
-I build machine learning systems at the intersection of agentic architectures, scientific knowledge extraction, and deep learning. My work focuses on constructing structured knowledge from unstructured domain corpora, building reliable agent-driven reasoning pipelines, and exploring multimodal speech and vision models.
+I build machine learning systems at the intersection of agentic architectures, scientific knowledge extraction, and deep learning. My work focuses on constructing structured knowledge graphs from unstructured domain literature, designing reliable agent reasoning pipelines, and developing multimodal speech and vision models.
 
 - **Institution:** Delhi Technological University (DTU)
 - **Location:** Delhi / NCR, India
-- **Core Domains:** AI/ML Systems, Agentic RAG, Knowledge Graphs, Audio AI
+- **Core Domains:** AI/ML Systems &bull; Agentic RAG &bull; Knowledge Graphs &bull; Audio AI
 - **Primary Research:** ResearchGraph (Automated Scientific Knowledge Discovery)
 
 ```
@@ -55,11 +55,18 @@ I build machine learning systems at the intersection of agentic architectures, s
 
 ## Experience
 
-<a href="https://github.com/ravishkansal22">
-  <img src="assets/experience_card.svg" width="100%" alt="SDET Intern at Autoload AI Systems" />
-</a>
+### SDET Intern &bull; [Autoload AI Systems](https://github.com/ravishkansal22)
+`2026 — Present` &nbsp;|&nbsp; `Active` &nbsp;|&nbsp; `Software Engineering & Quality Infrastructure`
 
-<br/><br/>
+> **Focus:** System Reliability, Test Automation & AI Quality Infrastructure
+
+- **Automated Validation:** Architected automated validation pipelines and end-to-end test harnesses for AI model inference services.
+- **Performance Benchmarking:** Executed stress analysis, latency profiling, and throughput benchmarking across asynchronous workloads.
+- **Quality Infrastructure:** Integrated CI/CD validation gates to ensure strict API contract verification, reliability metrics, and comprehensive test coverage.
+
+`PyTest` &bull; `Python` &bull; `FastAPI` &bull; `CI/CD` &bull; `System Benchmarking` &bull; `Reliability Engineering`
+
+<br/>
 
 ## Research Focus
 
@@ -110,7 +117,7 @@ Investigating deep learning architectures for multi-speaker speech separation (S
 <tr>
 <td width="50%" valign="top" style="padding: 16px;">
 
-### <a href="https://github.com/ravishkansal22">ResearchGraph</a>
+### [ResearchGraph](https://github.com/ravishkansal22)
 *Scientific Literature Intelligence System*
 
 End-to-end framework for parsing scientific papers, extracting structured entities, building persistent knowledge graphs, and uncovering cross-paper research gaps.
@@ -121,7 +128,7 @@ End-to-end framework for parsing scientific papers, extracting structured entiti
 </td>
 <td width="50%" valign="top" style="padding: 16px;">
 
-### <a href="https://github.com/ravishkansal22">Nagrik</a>
+### [Nagrik](https://github.com/ravishkansal22)
 *AI-Powered Civic Platform*
 
 Civic intelligence platform featuring automated scheme discovery, voice-assisted application workflows, and grievance routing for public governance.
@@ -134,7 +141,7 @@ Civic intelligence platform featuring automated scheme discovery, voice-assisted
 <tr>
 <td width="50%" valign="top" style="padding: 16px;">
 
-### <a href="https://github.com/ravishkansal22">Sonic Split</a>
+### [Sonic Split](https://github.com/ravishkansal22)
 *Deep Learning Audio Separation*
 
 Multi-speaker speech separation system built with SpeechBrain, SepFormer, and TF-Locoformer, coupled with an adaptive audio preprocessing engine.
@@ -145,7 +152,7 @@ Multi-speaker speech separation system built with SpeechBrain, SepFormer, and TF
 </td>
 <td width="50%" valign="top" style="padding: 16px;">
 
-### <a href="https://github.com/ravishkansal22">Arogya OS</a>
+### [Arogya OS](https://github.com/ravishkansal22)
 *Healthcare Intelligence Architecture*
 
 Longitudinal clinical data engine providing health record synthesis, diagnostic report interpretation, and automated patient workflow management.
@@ -158,7 +165,7 @@ Longitudinal clinical data engine providing health record synthesis, diagnostic 
 <tr>
 <td width="50%" valign="top" style="padding: 16px;">
 
-### <a href="https://github.com/ravishkansal22/GestureOS">GestureOS / Zesture</a>
+### [GestureOS / Zesture](https://github.com/ravishkansal22/GestureOS)
 *Real-Time Vision Interface*
 
 Touchless OS navigation interface powered by low-latency hand gesture tracking and real-time computer vision inference.
@@ -169,7 +176,7 @@ Touchless OS navigation interface powered by low-latency hand gesture tracking a
 </td>
 <td width="50%" valign="top" style="padding: 16px;">
 
-### <a href="https://github.com/ravishkansal22">OptiFlow</a>
+### [OptiFlow](https://github.com/ravishkansal22)
 *Agentic Logistics Optimization*
 
 Decision-support engine for dispatch scheduling, route optimization, and operational telemetry in freight logistics.
