@@ -1,62 +1,62 @@
 <div align="center">
 
 ```bash
-[ ravish-kansal@research-terminal ~ ] $ whoami --verbose --status=active
+[ ravish-kansal@research-terminal ~ ] $ whoami --role="AI/ML Systems Engineer & Researcher" --status=active
 ```
 
 </div>
 
 <table width="100%">
 <tr>
-<td width="34%" align="center" valign="middle">
+<td width="33%" align="center" valign="top">
   <a href="https://github.com/ravishkansal22">
     <img src="assets/profile_card.svg" width="100%" alt="Ravish Kansal" />
   </a>
 </td>
-<td width="66%" valign="top">
+<td width="67%" valign="top">
 
 <div align="right">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE%20%E2%97%8F-238636?style=for-the-badge&logo=statuspage&logoColor=white" alt="Online" />
-  <img src="https://img.shields.io/badge/NODE-RESEARCH--01-1f6feb?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Node" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-238636?style=flat-square&logo=statuspage&logoColor=white&labelColor=0D1117" alt="Online" />
+  <img src="https://img.shields.io/badge/NODE-RESEARCH--01-1f6feb?style=flat-square&logo=gnu-bash&logoColor=white&labelColor=0D1117" alt="Node" />
+  <img src="https://img.shields.io/badge/LAB-DELHI_IN-8957e5?style=flat-square&logo=google-cloud&logoColor=white&labelColor=0D1117" alt="Location" />
 </div>
 
 <code>&gt; whoami</code>
 <h2><b>Ravish Kansal</b></h2>
 
 <p>
-  <img src="https://img.shields.io/badge/AI%2FML_Engineer-1f6feb?style=flat-square&logo=google-cloud&logoColor=white" alt="AI/ML Engineer" />
-  <img src="https://img.shields.io/badge/Researcher-238636?style=flat-square&logo=arxiv&logoColor=white" alt="Researcher" />
-  <img src="https://img.shields.io/badge/Systems_Builder-d29922?style=flat-square&logo=arch-linux&logoColor=white" alt="Systems Builder" />
-  <img src="https://img.shields.io/badge/Open_Source-8957e5?style=flat-square&logo=github&logoColor=white" alt="Open Source" />
+  <b>AI/ML Systems Engineer</b> &nbsp;•&nbsp; <b>Scientific AI Researcher</b> &nbsp;•&nbsp; <b>Open Source Builder</b>
 </p>
 
-> *Building AI systems at the intersection of machine learning, agentic architectures, and scientific discovery.*
+> *Building AI systems at the intersection of deep learning, agentic architectures, and scientific discovery.*
 
 <hr/>
 
-▸ **Location:** Delhi / NCR, India<br/>
-▸ **Education:** Delhi Technological University (DTU) — B.Tech (ME)<br/>
-▸ **Core Domain:** AI/ML · LLM Systems · Agentic AI · Scientific Knowledge Graphs<br/>
-▸ **Primary Focus:** `ResearchGraph` · Deep Learning Systems · Audio AI
+▸ 📍 **Location:** Delhi / NCR, India<br/>
+▸ 🏛️ **Affiliation:** Delhi Technological University (DTU) — B.Tech (ME)<br/>
+▸ 🔬 **Core Domains:** AI/ML · LLM Systems · Agentic Workflows · Knowledge Graphs<br/>
+▸ ⚡ **Active Focus:** `ResearchGraph` · Deep Learning Systems · Multimodal / Audio AI
 
 <hr/>
 
-**`ACTIVE STACK`**
+**`CORE TECH SPECTRUM`**
 
-<br/>
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&labelColor=0D1117" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0D1117" alt="Python" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white&labelColor=0D1117" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white&labelColor=0D1117" alt="Neo4j" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=0D1117" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&labelColor=0D1117" alt="C++" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black&labelColor=0D1117" alt="HuggingFace" />
+</p>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
-<img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace" />
+<div align="center">
 
-<br/><br/>
+[`[ 01. Experience ]`](#-experience) &nbsp;•&nbsp; [`[ 02. Research ]`](#-research) &nbsp;•&nbsp; [`[ 03. Selected Work ]`](#-selected-work) &nbsp;•&nbsp; [`[ 04. Stack ]`](#-stack) &nbsp;•&nbsp; [`[ 05. Comms ]`](#-comms)
 
-<a href="#-experience"><code>[&gt;_ experience]</code></a> &nbsp;|&nbsp; <a href="#-research"><code>[// research]</code></a> &nbsp;|&nbsp; <a href="#-selected-work"><code>[◈ projects]</code></a> &nbsp;|&nbsp; <a href="#-stack"><code>[stack]</code></a> &nbsp;|&nbsp; <a href="#-comms"><code>[@ contact]</code></a>
+</div>
 
 </td>
 </tr>
@@ -71,8 +71,8 @@
 <td width="100%" style="padding: 20px 24px;">
 
 <div align="right">
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE%20%E2%97%8F-238636?style=for-the-badge&logoColor=white" alt="Status Active" />
-  <img src="https://img.shields.io/badge/TIMELINE-2026--PRESENT-1f6feb?style=for-the-badge&logoColor=white" alt="Timeline 2026" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE%20%E2%97%8F-238636?style=flat-square&logoColor=white&labelColor=0D1117" alt="Status Active" />
+  <img src="https://img.shields.io/badge/TIMELINE-2026--PRESENT-1f6feb?style=flat-square&logoColor=white&labelColor=0D1117" alt="Timeline 2026" />
 </div>
 
 <code>&gt; current_role</code>
@@ -114,7 +114,7 @@
 <tr>
 <td width="33.3%" valign="top" style="padding: 18px;">
 
-<img src="https://img.shields.io/badge/VECTOR_01-KNOWLEDGE_GRAPHS-58A6FF?style=for-the-badge&logo=neo4j&logoColor=white" width="100%" alt="Vector 01" />
+<img src="https://img.shields.io/badge/VECTOR_01-KNOWLEDGE_GRAPHS-58A6FF?style=flat-square&logo=neo4j&logoColor=white&labelColor=0D1117" width="100%" alt="Vector 01" />
 
 <br/><br/>
 
@@ -128,7 +128,7 @@ Building systems that extract complex scientific knowledge, entities, and hypoth
 </td>
 <td width="33.3%" valign="top" style="padding: 18px;">
 
-<img src="https://img.shields.io/badge/VECTOR_02-AGENTIC_RAG-7EE787?style=for-the-badge&logo=langchain&logoColor=white" width="100%" alt="Vector 02" />
+<img src="https://img.shields.io/badge/VECTOR_02-AGENTIC_RAG-7EE787?style=flat-square&logo=langchain&logoColor=white&labelColor=0D1117" width="100%" alt="Vector 02" />
 
 <br/><br/>
 
@@ -142,7 +142,7 @@ Designing modular multi-agent workflows, contextual retrieval, and self-correcti
 </td>
 <td width="33.3%" valign="top" style="padding: 18px;">
 
-<img src="https://img.shields.io/badge/VECTOR_03-MULTIMODAL_AI-FFA657?style=for-the-badge&logo=huggingface&logoColor=black" width="100%" alt="Vector 03" />
+<img src="https://img.shields.io/badge/VECTOR_03-MULTIMODAL_AI-FFA657?style=flat-square&logo=huggingface&logoColor=black&labelColor=0D1117" width="100%" alt="Vector 03" />
 
 <br/><br/>
 
@@ -338,10 +338,10 @@ Agentic logistics intelligence system for dispatch optimization, dynamic route a
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-ravishkansal22-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ravishkansal22)
+[![GitHub](https://img.shields.io/badge/GitHub-ravishkansal22-181717?style=flat-square&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/ravishkansal22)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ravish--kansal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravish-kansal-7a86b4376/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ravish--kansal-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/ravish-kansal-7a86b4376/)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-ravishkansalrk22%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravishkansalrk22@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ravishkansalrk22%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:ravishkansalrk22@gmail.com)
 
 </div>
