@@ -8,32 +8,40 @@
 
 <table width="100%">
 <tr>
-<td width="35%" align="center" valign="middle">
-<a href="https://github.com/ravishkansal22">
-<img src="assets/profile_card.svg" width="100%" alt="Ravish Kansal" />
-</a>
+<td width="34%" align="center" valign="middle">
+  <a href="https://github.com/ravishkansal22">
+    <img src="assets/profile_card.svg" width="100%" alt="Ravish Kansal" />
+  </a>
 </td>
-<td width="65%" valign="top">
+<td width="66%" valign="top">
+
+<div align="right">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE%20%E2%97%8F-238636?style=for-the-badge&logo=statuspage&logoColor=white" alt="Online" />
+  <img src="https://img.shields.io/badge/NODE-RESEARCH--01-1f6feb?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Node" />
+</div>
 
 <code>&gt; whoami</code>
 <h2><b>Ravish Kansal</b></h2>
 
-<code>AI/ML Engineer</code> &nbsp;▪&nbsp; <code>Researcher</code> &nbsp;▪&nbsp; <code>Systems Builder</code> &nbsp;▪&nbsp; <code>&lt;sys/online&gt;</code>
+<p>
+  <img src="https://img.shields.io/badge/AI%2FML_Engineer-1f6feb?style=flat-square&logo=google-cloud&logoColor=white" alt="AI/ML Engineer" />
+  <img src="https://img.shields.io/badge/Researcher-238636?style=flat-square&logo=arxiv&logoColor=white" alt="Researcher" />
+  <img src="https://img.shields.io/badge/Systems_Builder-d29922?style=flat-square&logo=arch-linux&logoColor=white" alt="Systems Builder" />
+  <img src="https://img.shields.io/badge/Open_Source-8957e5?style=flat-square&logo=github&logoColor=white" alt="Open Source" />
+</p>
 
-<br/>
-
-> *Building AI systems at the intersection of machine learning, agentic architectures, and scientific discovery.*
+> 🚀 *Building AI systems at the intersection of machine learning, agentic architectures, and scientific discovery.*
 
 <hr/>
 
-▸ 📍 **Location:** Delhi/NCR, India<br/>
+▸ 📍 **Location:** Delhi / NCR, India<br/>
 ▸ 🎓 **Education:** Delhi Technological University (DTU) — B.Tech (ME)<br/>
-▸ 🧠 **Core Domain:** AI/ML, LLM Systems, Agentic AI, Scientific Knowledge Graphs<br/>
-▸ 🎯 **Primary Focus:** ResearchGraph, Deep Learning Systems, Audio AI
+▸ 🧠 **Core Domain:** AI/ML · LLM Systems · Agentic AI · Scientific Knowledge Graphs<br/>
+▸ 🎯 **Primary Focus:** `ResearchGraph` · Deep Learning Systems · Audio AI
 
 <hr/>
 
-**`ACTIVE STACK`**
+**`⚡ ACTIVE STACK`**
 
 <br/>
 
@@ -41,13 +49,14 @@
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
-<img src="https://img.shields.io/badge/Knowledge_Graphs-008CC1?style=flat-square&logo=neo4j&logoColor=white" alt="Knowledge Graphs" />
+<img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace" />
 
 <br/><br/>
 
-<a href="#-experience"><code>[&gt;_ experience]</code></a> &nbsp;|&nbsp; <a href="#-research"><code>[// research]</code></a> &nbsp;|&nbsp; <a href="#-selected-work"><code>[◈ projects]</code></a> &nbsp;|&nbsp; <a href="#-comms"><code>[@ contact]</code></a>
+<a href="#-experience"><code>[&gt;_ experience]</code></a> &nbsp;|&nbsp; <a href="#-research"><code>[// research]</code></a> &nbsp;|&nbsp; <a href="#-selected-work"><code>[◈ projects]</code></a> &nbsp;|&nbsp; <a href="#-stack"><code>[🛠️ stack]</code></a> &nbsp;|&nbsp; <a href="#-comms"><code>[@ contact]</code></a>
 
 </td>
 </tr>
@@ -59,29 +68,39 @@
 
 <table width="100%">
 <tr>
-<td style="padding: 18px 22px;">
+<td width="100%" style="padding: 20px 24px;">
 
 <div align="right">
-<img src="https://img.shields.io/badge/STATUS-ACTIVE%20%E2%97%8F-238636?style=flat-square&logoColor=white" alt="Status" />
-<img src="https://img.shields.io/badge/TIMELINE-2026-1f6feb?style=flat-square&logoColor=white" alt="Timeline" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE%20%E2%97%8F-238636?style=for-the-badge&logoColor=white" alt="Status Active" />
+  <img src="https://img.shields.io/badge/TIMELINE-2026-1f6feb?style=for-the-badge&logoColor=white" alt="Timeline 2026" />
 </div>
 
 <code>&gt; role.exe --status=active</code>
 
-### 🛠️ **SDET Intern** &nbsp;•&nbsp; **Autoload AI Systems Pvt. Ltd.**
+### 🛠️ **SDET Intern** &nbsp;✦&nbsp; <a href="https://github.com/ravishkansal22">**Autoload AI Systems Pvt. Ltd.**</a>
 
-**Domain:** `Software Engineering` · `Test Automation` · `System Reliability`
+<p>
+  <img src="https://img.shields.io/badge/Domain-Software_Engineering-58A6FF?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Software Engineering" />
+  <img src="https://img.shields.io/badge/Focus-Test_Automation-7EE787?style=flat-square&logo=pytest&logoColor=white" alt="Test Automation" />
+  <img src="https://img.shields.io/badge/Core-System_Reliability-FFA657?style=flat-square&logo=datadog&logoColor=white" alt="System Reliability" />
+  <img src="https://img.shields.io/badge/Benchmarking-Performance-D2A8FF?style=flat-square&logo=speedtest&logoColor=white" alt="Performance" />
+</p>
 
 <br/>
 
-▸ Software testing, automation frameworks, performance scripting, and software reliability & scalability.
+▸ **Key Focus Areas & Impact:**
+- ⚡ **Test Automation:** Developing automated validation pipelines and test frameworks for AI applications.
+- 🔍 **Performance Scripting:** Conducting stress analysis, latency benchmarking, and system reliability testing.
+- 🛡️ **System Scalability:** Ensuring robust software engineering practices, CI/CD validation gates, and test coverage.
 
 <br/>
 
-<img src="https://img.shields.io/badge/Test_Automation-1f6feb?style=flat-square&logo=pytest&logoColor=white" alt="Test Automation" />
-<img src="https://img.shields.io/badge/Software_Testing-238636?style=flat-square&logo=testinglibrary&logoColor=white" alt="Software Testing" />
-<img src="https://img.shields.io/badge/Performance-d29922?style=flat-square&logo=speedtest&logoColor=white" alt="Performance" />
-<img src="https://img.shields.io/badge/Reliability-8957e5?style=flat-square&logo=datadog&logoColor=white" alt="Reliability" />
+<img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="PyTest" />
+<img src="https://img.shields.io/badge/Automation-238636?style=for-the-badge&logo=githubactions&logoColor=white" alt="Automation" />
+<img src="https://img.shields.io/badge/Performance-D29922?style=for-the-badge&logo=speedtest&logoColor=white" alt="Performance" />
+<img src="https://img.shields.io/badge/Reliability-8957E5?style=for-the-badge&logo=linux&logoColor=white" alt="Reliability" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 
 </td>
 </tr>
@@ -93,28 +112,46 @@
 
 <table width="100%">
 <tr>
-<td width="33.3%" valign="top" style="padding: 16px;">
+<td width="33.3%" valign="top" style="padding: 18px;">
 
-`01 / KNOWLEDGE REPRESENTATION`
-#### **RESEARCH GRAPHS**
+<img src="https://img.shields.io/badge/VECTOR_01-KNOWLEDGE_GRAPHS-58A6FF?style=for-the-badge&logo=neo4j&logoColor=white" width="100%" alt="Vector 01" />
 
-Building systems that extract scientific knowledge and relationships from literature into queryable research graphs.
+<br/><br/>
 
-</td>
-<td width="33.3%" valign="top" style="padding: 16px;">
+#### 🔬 **Research Graphs**
+Building systems that extract complex scientific knowledge, entities, and hypotheses from multi-source literature into high-dimensional queryable research graphs.
 
-`02 / REASONING & RETRIEVAL`
-#### **AGENTIC AI & RAG**
+<br/>
 
-Building retrieval and agentic systems for reasoning over large document collections.
+`Information Extraction` · `Graph DB` · `Discovery`
 
 </td>
-<td width="33.3%" valign="top" style="padding: 16px;">
+<td width="33.3%" valign="top" style="padding: 18px;">
 
-`03 / MULTIMODAL SYSTEMS`
-#### **MULTIMODAL & AUDIO AI**
+<img src="https://img.shields.io/badge/VECTOR_02-AGENTIC_RAG-7EE787?style=for-the-badge&logo=langchain&logoColor=white" width="100%" alt="Vector 02" />
 
-Exploring deep-learning systems for speech separation and multimodal human-computer interaction.
+<br/><br/>
+
+#### 🤖 **Agentic AI & RAG**
+Designing modular multi-agent workflows, contextual retrieval, and self-correcting reasoning agents over extensive domain corpora.
+
+<br/>
+
+`LangGraph` · `Vector Retrieval` · `Multi-Agent`
+
+</td>
+<td width="33.3%" valign="top" style="padding: 18px;">
+
+<img src="https://img.shields.io/badge/VECTOR_03-MULTIMODAL_AI-FFA657?style=for-the-badge&logo=huggingface&logoColor=black" width="100%" alt="Vector 03" />
+
+<br/><br/>
+
+#### 🎧 **Multimodal & Audio AI**
+Exploring deep-learning architectures for multi-speaker speech separation (SepFormer / TF-Locoformer) and real-time computer vision interfaces.
+
+<br/>
+
+`SpeechBrain` · `PyTorch` · `Computer Vision`
 
 </td>
 </tr>
@@ -126,102 +163,120 @@ Exploring deep-learning systems for speech separation and multimodal human-compu
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top" style="padding: 16px;">
+<td width="50%" valign="top" style="padding: 18px;">
 
-`RESEARCH / ACTIVE`
+<img src="https://img.shields.io/badge/FLAGSHIP_RESEARCH-ACTIVE-1f6feb?style=flat-square&logo=scientificcomputing&logoColor=white" />
+
 #### 🔬 <a href="https://github.com/ravishkansal22">**ResearchGraph**</a>
-
-Scientific literature intelligence system focused on document processing, scientific information extraction, knowledge representation, research graph construction, discovery, and hypothesis generation.
-
-<br/>
-
-`Research` · `Knowledge Graphs` · `RAG` · `Scientific AI`
+Scientific literature intelligence system focused on document processing, scientific information extraction, knowledge representation, research graph construction, and hypothesis discovery.
 
 <br/>
 
-▸ **Status:** `Active Research Project`
+<img src="https://img.shields.io/badge/Research-1f6feb?style=flat-square" />
+<img src="https://img.shields.io/badge/Knowledge_Graphs-008CC1?style=flat-square" />
+<img src="https://img.shields.io/badge/Agentic_RAG-238636?style=flat-square" />
+<img src="https://img.shields.io/badge/Scientific_AI-8957e5?style=flat-square" />
+
+<br/><br/>
+
+▸ **Status:** `Active Long-Term Research Project`
 
 </td>
-<td width="50%" valign="top" style="padding: 16px;">
+<td width="50%" valign="top" style="padding: 18px;">
 
-`CIVIC-TECH / HACKATHON`
+<img src="https://img.shields.io/badge/CIVIC--TECH-HACKATHON_WINNER-d29922?style=flat-square&logo=trophy&logoColor=white" />
+
 #### 🏛️ <a href="https://github.com/ravishkansal22">**Nagrik**</a>
-
 AI-powered civic platform for scheme discovery, voice-assisted form filling, grievance workflows, and government decision intelligence.
 
 <br/>
 
-`AI Agents` · `RAG` · `Voice AI` · `CivicTech`
+<img src="https://img.shields.io/badge/AI_Agents-8957e5?style=flat-square" />
+<img src="https://img.shields.io/badge/Voice_AI-f778ba?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-238636?style=flat-square" />
+<img src="https://img.shields.io/badge/CivicTech-d29922?style=flat-square" />
 
-<br/>
+<br/><br/>
 
-▸ **Achievement:** `SIH Decode - Second Runner-Up`
+▸ **Achievement:** `🏆 SIH Decode — Second Runner-Up`
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top" style="padding: 16px;">
+<td width="50%" valign="top" style="padding: 18px;">
 
-`AUDIO AI / DEEP LEARNING`
+<img src="https://img.shields.io/badge/AUDIO_AI-DEEP_LEARNING-8957e5?style=flat-square&logo=audiomack&logoColor=white" />
+
 #### 🎧 <a href="https://github.com/ravishkansal22">**Sonic Split**</a>
-
-Multi-speaker audio separation research using SpeechBrain, SepFormer and TF-Locoformer, with an Adaptive Audio Preprocessing Engine.
-
-<br/>
-
-`PyTorch` · `Speech Separation` · `SepFormer` · `Audio AI`
+Multi-speaker audio separation research using SpeechBrain, SepFormer, and TF-Locoformer, equipped with an Adaptive Audio Preprocessing Engine.
 
 <br/>
 
-▸ **Focus:** `Audio Preprocessing + Model Research`
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square" />
+<img src="https://img.shields.io/badge/SepFormer-58A6FF?style=flat-square" />
+<img src="https://img.shields.io/badge/SpeechBrain-FFD21E?style=flat-square&logoColor=black" />
+<img src="https://img.shields.io/badge/Audio_AI-8957e5?style=flat-square" />
+
+<br/><br/>
+
+▸ **Focus:** `Audio Preprocessing & Separation Research`
 
 </td>
-<td width="50%" valign="top" style="padding: 16px;">
+<td width="50%" valign="top" style="padding: 18px;">
 
-`HEALTHCARE AI / PROTOTYPE`
+<img src="https://img.shields.io/badge/HEALTHCARE_AI-PROTOTYPE-009688?style=flat-square&logo=health-and-safety&logoColor=white" />
+
 #### 🏥 <a href="https://github.com/ravishkansal22">**Arogya OS**</a>
-
-AI healthcare operating-system concept exploring health memory, health twins, report interpretation, voice workflows and queue intelligence.
-
-<br/>
-
-`AI Agents` · `Healthcare AI` · `RAG` · `FastAPI`
+AI healthcare operating-system concept exploring longitudinal health memory, health twins, report interpretation, voice workflows, and queue intelligence.
 
 <br/>
+
+<img src="https://img.shields.io/badge/Healthcare_AI-009688?style=flat-square" />
+<img src="https://img.shields.io/badge/AI_Agents-8957e5?style=flat-square" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-238636?style=flat-square" />
+
+<br/><br/>
 
 ▸ **Status:** `Architecture Concept & Prototype`
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top" style="padding: 16px;">
+<td width="50%" valign="top" style="padding: 18px;">
 
-`COMPUTER VISION / SYSTEMS`
+<img src="https://img.shields.io/badge/COMPUTER_VISION-REAL--TIME-58a6ff?style=flat-square&logo=opencv&logoColor=white" />
+
 #### 👁️ <a href="https://github.com/ravishkansal22/GestureOS">**GestureOS / Zesture**</a>
-
-Gesture-controlled OS interface using MediaPipe, OpenCV and TensorFlow/Keras with real-time camera inference.
-
-<br/>
-
-`Computer Vision` · `MediaPipe` · `OpenCV` · `TensorFlow`
+Gesture-controlled OS interface using MediaPipe, OpenCV, and TensorFlow/Keras with low-latency real-time camera inference.
 
 <br/>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square" />
+<img src="https://img.shields.io/badge/MediaPipe-00A98F?style=flat-square" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square" />
+<img src="https://img.shields.io/badge/Computer_Vision-58A6FF?style=flat-square" />
+
+<br/><br/>
 
 ▸ **Type:** `Real-time Vision System`
 
 </td>
-<td width="50%" valign="top" style="padding: 16px;">
+<td width="50%" valign="top" style="padding: 18px;">
 
-`AGENTIC SYSTEMS / BACKEND`
+<img src="https://img.shields.io/badge/LOGISTICS_AI-BACKEND-d29922?style=flat-square&logo=fastapi&logoColor=white" />
+
 #### ⚡ <a href="https://github.com/ravishkansal22">**OptiFlow**</a>
-
-Agentic logistics intelligence system for dispatch optimization, route analysis and operational decision support.
-
-<br/>
-
-`Python` · `FastAPI` · `AI Agents` · `Optimization`
+Agentic logistics intelligence system for dispatch optimization, dynamic route analysis, and operational decision support.
 
 <br/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square" />
+<img src="https://img.shields.io/badge/AI_Agents-8957E5?style=flat-square" />
+<img src="https://img.shields.io/badge/Optimization-D29922?style=flat-square" />
+
+<br/><br/>
 
 ▸ **Type:** `Agentic Logistics Intelligence`
 
@@ -235,11 +290,11 @@ Agentic logistics intelligence system for dispatch optimization, route analysis 
 
 <table width="100%">
 <tr>
-<td width="50%" align="center">
-<img src="assets/radar_claim.svg" width="100%" alt="Research & Systems Focus Radar Chart" />
+<td width="50%" align="center" style="padding: 10px;">
+  <img src="assets/radar_claim.svg" width="100%" alt="Research & Systems Focus Radar Chart" />
 </td>
-<td width="50%" align="center">
-<img src="assets/radar_history.svg" width="100%" alt="Engineering Stack & Telemetry Radar Chart" />
+<td width="50%" align="center" style="padding: 10px;">
+  <img src="assets/radar_history.svg" width="100%" alt="Engineering Stack & Telemetry Radar Chart" />
 </td>
 </tr>
 </table>
@@ -252,13 +307,13 @@ Agentic logistics intelligence system for dispatch optimization, route analysis 
 
 <table width="100%">
 <tr>
-<td style="padding: 16px 20px; line-height: 1.8;">
+<td width="100%" style="padding: 20px 24px; line-height: 2.0;">
 
-- 🔹 **LANGUAGES:** `Python` · `C++` · `JavaScript` · `TypeScript` · `SQL`
-- 🧠 **AI / ML:** `PyTorch` · `TensorFlow` · `Scikit-learn` · `OpenCV` · `MediaPipe` · `SpeechBrain` · `SepFormer`
-- 🤖 **AI SYSTEMS & LLM:** `RAG` · `LangChain` · `LangGraph` · `Agentic AI` · `Embeddings` · `ChromaDB` · `Knowledge Graphs`
-- ⚙️ **BACKEND & DB:** `FastAPI` · `PostgreSQL` · `SQLAlchemy` · `Alembic` · `REST APIs`
-- 🛠️ **FRONTEND & TOOLS:** `Next.js` · `React` · `Git` · `GitHub` · `Jupyter` · `Hugging Face` · `Supabase`
+- 💻 <img src="https://img.shields.io/badge/LANGUAGES-1f6feb?style=flat-square" alt="Languages" /> `Python` · `C++` · `JavaScript` · `TypeScript` · `SQL`
+- 🧠 <img src="https://img.shields.io/badge/AI_%2F_ML-238636?style=flat-square" alt="AI/ML" /> `PyTorch` · `TensorFlow` · `Scikit-learn` · `OpenCV` · `MediaPipe` · `SpeechBrain` · `SepFormer`
+- 🤖 <img src="https://img.shields.io/badge/AI_SYSTEMS_%26_LLM-8957e5?style=flat-square" alt="AI Systems" /> `RAG` · `LangChain` · `LangGraph` · `Agentic AI` · `Embeddings` · `ChromaDB` · `Knowledge Graphs`
+- ⚙️ <img src="https://img.shields.io/badge/BACKEND_%26_DB-d29922?style=flat-square" alt="Backend & DB" /> `FastAPI` · `PostgreSQL` · `SQLAlchemy` · `Alembic` · `REST APIs`
+- 🛠️ <img src="https://img.shields.io/badge/FRONTEND_%26_TOOLS-db61a2?style=flat-square" alt="Tools" /> `Next.js` · `React` · `Git` · `GitHub` · `Jupyter` · `Hugging Face` · `Supabase`
 
 </td>
 </tr>
