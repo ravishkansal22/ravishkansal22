@@ -1,56 +1,54 @@
 <div align="center">
 
-```
-========================================================================================================
+```bash
 [ ravish-kansal@research-terminal ~ ] $ whoami --verbose --status=active
-========================================================================================================
 ```
 
 </div>
 
-<table width="100%" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px;">
+<table width="100%">
 <tr>
-<td width="36%" align="center" valign="middle" style="background-color: #0D1117; border-right: 1px solid #30363D; padding: 24px 16px;">
+<td width="35%" align="center" valign="middle">
 <a href="https://github.com/ravishkansal22">
-<img src="assets/profile_card.svg" width="280" style="display: block; width: 100%; max-width: 280px; height: auto; border-radius: 8px;" alt="Ravish Kansal" />
+<img src="assets/profile_card.svg" width="100%" alt="Ravish Kansal" />
 </a>
 </td>
-<td width="64%" valign="top" style="background-color: #0D1117; padding: 24px 28px;">
-<div style="font-family: 'Fira Code', 'Source Code Pro', monospace; color: #58A6FF; font-size: 13px; font-weight: bold; margin-bottom: 6px;">
-&gt; whoami
-</div>
-<h1 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 28px; font-weight: 800; color: #FFFFFF; margin: 0 0 6px 0; letter-spacing: -0.5px; border: none; padding: 0;">
-Ravish Kansal
-</h1>
-<div style="font-family: 'Fira Code', 'Source Code Pro', monospace; color: #7EE787; font-size: 13px; font-weight: 600; margin-bottom: 12px;">
-[AI/ML Engineer * Researcher * Systems Builder] &lt;sys/online&gt;
-</div>
-<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; color: #8B949E; font-size: 13.5px; margin-bottom: 16px; line-height: 1.55;">
-Building AI systems at the intersection of machine learning, agentic architectures, and scientific discovery.
-</div>
-<div style="font-family: 'Fira Code', 'Source Code Pro', monospace; color: #C9D1D9; font-size: 12px; line-height: 1.85;">
-<div>* <b>Location:</b> Delhi/NCR, India</div>
-<div>* <b>Education:</b> Delhi Technological University (DTU) - B.Tech (ME)</div>
-<div>* <b>Core Domain:</b> AI/ML, LLM Systems, Agentic AI, Scientific Knowledge Graphs</div>
-<div>* <b>Primary Focus:</b> ResearchGraph, Deep Learning Systems, Audio AI</div>
-</div>
-<div style="margin-top: 18px; border-top: 1px dashed #30363D; padding-top: 14px;">
-<div style="font-family: 'Fira Code', monospace; color: #8B949E; font-size: 11px; font-weight: bold; margin-bottom: 10px; letter-spacing: 1px;">
-ACTIVE STACK
-</div>
-<div>
-<img src="https://img.shields.io/badge/%E2%97%8F_Python-161B22?style=flat-square&color=21262D&labelColor=161B22&logoColor=58A6FF" alt="Python" />
-<img src="https://img.shields.io/badge/%E2%97%8F_PyTorch-161B22?style=flat-square&color=21262D&labelColor=161B22&logoColor=58A6FF" alt="PyTorch" />
-<img src="https://img.shields.io/badge/%E2%97%8F_FastAPI-161B22?style=flat-square&color=21262D&labelColor=161B22&logoColor=58A6FF" alt="FastAPI" />
-<img src="https://img.shields.io/badge/%E2%97%8F_LangGraph-161B22?style=flat-square&color=21262D&labelColor=161B22&logoColor=58A6FF" alt="LangGraph" />
-<img src="https://img.shields.io/badge/%E2%97%8F_Knowledge_Graphs-161B22?style=flat-square&color=21262D&labelColor=161B22&logoColor=58A6FF" alt="Knowledge Graphs" />
-<img src="https://img.shields.io/badge/%E2%97%8F_C%2B%2B-161B22?style=flat-square&color=21262D&labelColor=161B22&logoColor=58A6FF" alt="C++" />
-<img src="https://img.shields.io/badge/%E2%97%8F_TypeScript-161B22?style=flat-square&color=21262D&labelColor=161B22&logoColor=58A6FF" alt="TypeScript" />
-</div>
-</div>
-<div style="margin-top: 16px; font-family: 'Fira Code', monospace; font-size: 11px; color: #8B949E;">
-<code>[&gt;_] core</code> &nbsp;|&nbsp; <code>[/] projects</code> &nbsp;|&nbsp; <code>[@] mail</code> &nbsp;|&nbsp; <a href="https://github.com/ravishkansal22" style="color: #58A6FF; text-decoration: none;">github.com/ravishkansal22</a>
-</div>
+<td width="65%" valign="top">
+
+<code>&gt; whoami</code>
+<h2><b>Ravish Kansal</b></h2>
+
+<code>AI/ML Engineer</code> &nbsp;▪&nbsp; <code>Researcher</code> &nbsp;▪&nbsp; <code>Systems Builder</code> &nbsp;▪&nbsp; <code>&lt;sys/online&gt;</code>
+
+<br/>
+
+> *Building AI systems at the intersection of machine learning, agentic architectures, and scientific discovery.*
+
+<hr/>
+
+▸ 📍 **Location:** Delhi/NCR, India<br/>
+▸ 🎓 **Education:** Delhi Technological University (DTU) — B.Tech (ME)<br/>
+▸ 🧠 **Core Domain:** AI/ML, LLM Systems, Agentic AI, Scientific Knowledge Graphs<br/>
+▸ 🎯 **Primary Focus:** ResearchGraph, Deep Learning Systems, Audio AI
+
+<hr/>
+
+**`ACTIVE STACK`**
+
+<br/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
+<img src="https://img.shields.io/badge/Knowledge_Graphs-008CC1?style=flat-square&logo=neo4j&logoColor=white" alt="Knowledge Graphs" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+
+<br/><br/>
+
+<a href="#-experience"><code>[&gt;_ experience]</code></a> &nbsp;|&nbsp; <a href="#-research"><code>[// research]</code></a> &nbsp;|&nbsp; <a href="#-selected-work"><code>[◈ projects]</code></a> &nbsp;|&nbsp; <a href="#-comms"><code>[@ contact]</code></a>
+
 </td>
 </tr>
 </table>
@@ -59,32 +57,25 @@ ACTIVE STACK
 
 ### ~/ experience
 
-<table width="100%" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px;">
+<table width="100%">
 <tr>
-<td style="background-color: #0D1117; padding: 22px 26px;">
-<div style="font-family: 'Fira Code', monospace; font-size: 11.5px; color: #8B949E; margin-bottom: 12px;">
-<span style="color: #58A6FF; font-weight: bold;">&gt; role.exe --status=active</span>
-&nbsp;&nbsp;&nbsp;&nbsp;&bull;&nbsp;&nbsp;&nbsp;&nbsp;
-<span style="color: #7EE787; font-weight: 600;">● ACTIVE · 2026</span>
-</div>
-<h2 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 24px; font-weight: 800; color: #FFFFFF; margin: 4px 0 4px 0; letter-spacing: -0.3px; border: none; padding: 0;">
-SDET INTERN
-</h2>
-<div style="font-family: 'Fira Code', monospace; font-size: 14.5px; font-weight: 600; color: #58A6FF; margin-bottom: 4px;">
-Autoload AI Systems Pvt. Ltd.
-</div>
-<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12.5px; color: #8B949E; margin-bottom: 14px;">
-Software Engineering · Test Automation · System Reliability
-</div>
-<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; color: #C9D1D9; line-height: 1.6; margin: 12px 0 16px 0;">
-Software testing, automation, performance scripting, and software reliability/scalability.
-</div>
-<div>
-<img src="https://img.shields.io/badge/%E2%97%8F_TEST_AUTOMATION-161B22?style=flat-square&color=21262D&labelColor=161B22&logoColor=58A6FF" alt="TEST AUTOMATION" />
-<img src="https://img.shields.io/badge/%E2%97%8F_SOFTWARE_TESTING-161B22?style=flat-square&color=21262D&labelColor=161B22&logoColor=58A6FF" alt="SOFTWARE TESTING" />
-<img src="https://img.shields.io/badge/%E2%97%8F_PERFORMANCE-161B22?style=flat-square&color=21262D&labelColor=161B22&logoColor=58A6FF" alt="PERFORMANCE" />
-<img src="https://img.shields.io/badge/%E2%97%8F_RELIABILITY-161B22?style=flat-square&color=21262D&labelColor=161B22&logoColor=58A6FF" alt="RELIABILITY" />
-</div>
+<td style="padding: 16px 20px;">
+
+<code>&gt; role.exe --status=active</code> &nbsp;&nbsp;&bull;&nbsp;&nbsp; <code>● ACTIVE · 2026</code>
+
+<h3><b>SDET INTERN</b> &nbsp;|&nbsp; <a href="https://github.com/ravishkansal22">Autoload AI Systems Pvt. Ltd.</a></h3>
+
+*Software Engineering · Test Automation · System Reliability*
+
+> Software testing, automation, performance scripting, and software reliability/scalability.
+
+<br/>
+
+<img src="https://img.shields.io/badge/%E2%97%8F_Test_Automation-161B22?style=flat-square&color=21262D&labelColor=161B22&logoColor=58A6FF" alt="Test Automation" />
+<img src="https://img.shields.io/badge/%E2%97%8F_Software_Testing-161B22?style=flat-square&color=21262D&labelColor=161B22&logoColor=58A6FF" alt="Software Testing" />
+<img src="https://img.shields.io/badge/%E2%97%8F_Performance-161B22?style=flat-square&color=21262D&labelColor=161B22&logoColor=58A6FF" alt="Performance" />
+<img src="https://img.shields.io/badge/%E2%97%8F_Reliability-161B22?style=flat-square&color=21262D&labelColor=161B22&logoColor=58A6FF" alt="Reliability" />
+
 </td>
 </tr>
 </table>
@@ -93,28 +84,31 @@ Software testing, automation, performance scripting, and software reliability/sc
 
 ### ~/ research
 
-<table width="100%" style="border-collapse: separate; border-spacing: 14px; background-color: transparent;">
+<table width="100%">
 <tr>
-<td width="33.3%" valign="top" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px; padding: 20px 18px;">
-<div style="font-family: 'Fira Code', monospace; font-size: 11px; color: #58A6FF; font-weight: bold; margin-bottom: 4px;">01 / KNOWLEDGE REPRESENTATION</div>
-<div style="font-family: 'Fira Code', monospace; font-size: 14px; font-weight: bold; color: #FFFFFF; margin-bottom: 8px;">RESEARCH GRAPHS</div>
-<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12.5px; color: #C9D1D9; line-height: 1.55;">
+<td width="33.3%" valign="top" style="padding: 16px;">
+
+`01 / KNOWLEDGE REPRESENTATION`
+#### **RESEARCH GRAPHS**
+
 Building systems that extract scientific knowledge and relationships from literature into queryable research graphs.
-</div>
+
 </td>
-<td width="33.3%" valign="top" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px; padding: 20px 18px;">
-<div style="font-family: 'Fira Code', monospace; font-size: 11px; color: #7EE787; font-weight: bold; margin-bottom: 4px;">02 / REASONING &amp; RETRIEVAL</div>
-<div style="font-family: 'Fira Code', monospace; font-size: 14px; font-weight: bold; color: #FFFFFF; margin-bottom: 8px;">AGENTIC AI &amp; RAG</div>
-<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12.5px; color: #C9D1D9; line-height: 1.55;">
+<td width="33.3%" valign="top" style="padding: 16px;">
+
+`02 / REASONING & RETRIEVAL`
+#### **AGENTIC AI & RAG**
+
 Building retrieval and agentic systems for reasoning over large document collections.
-</div>
+
 </td>
-<td width="33.3%" valign="top" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px; padding: 20px 18px;">
-<div style="font-family: 'Fira Code', monospace; font-size: 11px; color: #F0883E; font-weight: bold; margin-bottom: 4px;">03 / MULTIMODAL SYSTEMS</div>
-<div style="font-family: 'Fira Code', monospace; font-size: 14px; font-weight: bold; color: #FFFFFF; margin-bottom: 8px;">MULTIMODAL &amp; AUDIO AI</div>
-<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12.5px; color: #C9D1D9; line-height: 1.55;">
+<td width="33.3%" valign="top" style="padding: 16px;">
+
+`03 / MULTIMODAL SYSTEMS`
+#### **MULTIMODAL & AUDIO AI**
+
 Exploring deep-learning systems for speech separation and multimodal human-computer interaction.
-</div>
+
 </td>
 </tr>
 </table>
@@ -123,101 +117,107 @@ Exploring deep-learning systems for speech separation and multimodal human-compu
 
 ### ~/ selected-work
 
-<table width="100%" style="border-collapse: separate; border-spacing: 14px; background-color: transparent;">
+<table width="100%">
 <tr>
-<td width="50%" valign="top" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px; padding: 20px 22px;">
-<div style="font-family: 'Fira Code', monospace; font-size: 11px; color: #8B949E; letter-spacing: 0.5px;">RESEARCH / ACTIVE</div>
-<div style="font-family: 'Fira Code', monospace; font-size: 16px; font-weight: bold; color: #58A6FF; margin: 8px 0 10px 0;">
-<a href="https://github.com/ravishkansal22" style="color: #58A6FF; text-decoration: none;">ResearchGraph</a>
-</div>
-<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12.5px; color: #C9D1D9; margin-bottom: 14px; line-height: 1.55; min-height: 56px;">
+<td width="50%" valign="top" style="padding: 16px;">
+
+`RESEARCH / ACTIVE`
+#### 🔬 <a href="https://github.com/ravishkansal22">**ResearchGraph**</a>
+
 Scientific literature intelligence system focused on document processing, scientific information extraction, knowledge representation, research graph construction, discovery, and hypothesis generation.
-</div>
-<div style="margin-bottom: 12px;">
-<code>Research</code> · <code>Knowledge Graphs</code> · <code>RAG</code> · <code>Scientific AI</code>
-</div>
-<div style="font-family: 'Fira Code', monospace; font-size: 11px; color: #7EE787;">
--&gt; Long-term research project
-</div>
+
+<br/>
+
+`Research` · `Knowledge Graphs` · `RAG` · `Scientific AI`
+
+<br/>
+
+▸ **Status:** `Active Research Project`
+
 </td>
-<td width="50%" valign="top" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px; padding: 20px 22px;">
-<div style="font-family: 'Fira Code', monospace; font-size: 11px; color: #8B949E; letter-spacing: 0.5px;">CIVIC-TECH / HACKATHON</div>
-<div style="font-family: 'Fira Code', monospace; font-size: 16px; font-weight: bold; color: #58A6FF; margin: 8px 0 10px 0;">
-<a href="https://github.com/ravishkansal22" style="color: #58A6FF; text-decoration: none;">Nagrik</a>
-</div>
-<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12.5px; color: #C9D1D9; margin-bottom: 14px; line-height: 1.55; min-height: 56px;">
+<td width="50%" valign="top" style="padding: 16px;">
+
+`CIVIC-TECH / HACKATHON`
+#### 🏛️ <a href="https://github.com/ravishkansal22">**Nagrik**</a>
+
 AI-powered civic platform for scheme discovery, voice-assisted form filling, grievance workflows, and government decision intelligence.
-</div>
-<div style="margin-bottom: 12px;">
-<code>AI Agents</code> · <code>RAG</code> · <code>Voice AI</code> · <code>CivicTech</code>
-</div>
-<div style="font-family: 'Fira Code', monospace; font-size: 11px; color: #D29922;">
--&gt; SIH Decode - Second Runner-Up
-</div>
+
+<br/>
+
+`AI Agents` · `RAG` · `Voice AI` · `CivicTech`
+
+<br/>
+
+▸ **Achievement:** `SIH Decode - Second Runner-Up`
+
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px; padding: 20px 22px;">
-<div style="font-family: 'Fira Code', monospace; font-size: 11px; color: #8B949E; letter-spacing: 0.5px;">AUDIO AI / DEEP LEARNING</div>
-<div style="font-family: 'Fira Code', monospace; font-size: 16px; font-weight: bold; color: #58A6FF; margin: 8px 0 10px 0;">
-<a href="https://github.com/ravishkansal22" style="color: #58A6FF; text-decoration: none;">Sonic Split</a>
-</div>
-<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12.5px; color: #C9D1D9; margin-bottom: 14px; line-height: 1.55; min-height: 56px;">
+<td width="50%" valign="top" style="padding: 16px;">
+
+`AUDIO AI / DEEP LEARNING`
+#### 🎧 <a href="https://github.com/ravishkansal22">**Sonic Split**</a>
+
 Multi-speaker audio separation research using SpeechBrain, SepFormer and TF-Locoformer, with an Adaptive Audio Preprocessing Engine.
-</div>
-<div style="margin-bottom: 12px;">
-<code>PyTorch</code> · <code>Speech Separation</code> · <code>SepFormer</code> · <code>Audio AI</code>
-</div>
-<div style="font-family: 'Fira Code', monospace; font-size: 11px; color: #8B949E;">
--&gt; Audio preprocessing + model research
-</div>
+
+<br/>
+
+`PyTorch` · `Speech Separation` · `SepFormer` · `Audio AI`
+
+<br/>
+
+▸ **Focus:** `Audio Preprocessing + Model Research`
+
 </td>
-<td width="50%" valign="top" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px; padding: 20px 22px;">
-<div style="font-family: 'Fira Code', monospace; font-size: 11px; color: #8B949E; letter-spacing: 0.5px;">HEALTHCARE AI / PROTOTYPE</div>
-<div style="font-family: 'Fira Code', monospace; font-size: 16px; font-weight: bold; color: #58A6FF; margin: 8px 0 10px 0;">
-<a href="https://github.com/ravishkansal22" style="color: #58A6FF; text-decoration: none;">Arogya OS</a>
-</div>
-<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12.5px; color: #C9D1D9; margin-bottom: 14px; line-height: 1.55; min-height: 56px;">
+<td width="50%" valign="top" style="padding: 16px;">
+
+`HEALTHCARE AI / PROTOTYPE`
+#### 🏥 <a href="https://github.com/ravishkansal22">**Arogya OS**</a>
+
 AI healthcare operating-system concept exploring health memory, health twins, report interpretation, voice workflows and queue intelligence.
-</div>
-<div style="margin-bottom: 12px;">
-<code>AI Agents</code> · <code>Healthcare AI</code> · <code>RAG</code> · <code>FastAPI</code>
-</div>
-<div style="font-family: 'Fira Code', monospace; font-size: 11px; color: #8B949E;">
--&gt; Architecture concept + prototype
-</div>
+
+<br/>
+
+`AI Agents` · `Healthcare AI` · `RAG` · `FastAPI`
+
+<br/>
+
+▸ **Status:** `Architecture Concept & Prototype`
+
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px; padding: 20px 22px;">
-<div style="font-family: 'Fira Code', monospace; font-size: 11px; color: #8B949E; letter-spacing: 0.5px;">COMPUTER VISION / SYSTEMS</div>
-<div style="font-family: 'Fira Code', monospace; font-size: 16px; font-weight: bold; color: #58A6FF; margin: 8px 0 10px 0;">
-<a href="https://github.com/ravishkansal22/GestureOS" style="color: #58A6FF; text-decoration: none;">GestureOS / Zesture</a>
-</div>
-<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12.5px; color: #C9D1D9; margin-bottom: 14px; line-height: 1.55; min-height: 56px;">
+<td width="50%" valign="top" style="padding: 16px;">
+
+`COMPUTER VISION / SYSTEMS`
+#### 👁️ <a href="https://github.com/ravishkansal22/GestureOS">**GestureOS / Zesture**</a>
+
 Gesture-controlled OS interface using MediaPipe, OpenCV and TensorFlow/Keras with real-time camera inference.
-</div>
-<div style="margin-bottom: 12px;">
-<code>Computer Vision</code> · <code>MediaPipe</code> · <code>OpenCV</code> · <code>TensorFlow</code>
-</div>
-<div style="font-family: 'Fira Code', monospace; font-size: 11px; color: #8B949E;">
--&gt; Real-time vision system
-</div>
+
+<br/>
+
+`Computer Vision` · `MediaPipe` · `OpenCV` · `TensorFlow`
+
+<br/>
+
+▸ **Type:** `Real-time Vision System`
+
 </td>
-<td width="50%" valign="top" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px; padding: 20px 22px;">
-<div style="font-family: 'Fira Code', monospace; font-size: 11px; color: #8B949E; letter-spacing: 0.5px;">AGENTIC SYSTEMS / BACKEND</div>
-<div style="font-family: 'Fira Code', monospace; font-size: 16px; font-weight: bold; color: #58A6FF; margin: 8px 0 10px 0;">
-<a href="https://github.com/ravishkansal22" style="color: #58A6FF; text-decoration: none;">OptiFlow</a>
-</div>
-<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12.5px; color: #C9D1D9; margin-bottom: 14px; line-height: 1.55; min-height: 56px;">
+<td width="50%" valign="top" style="padding: 16px;">
+
+`AGENTIC SYSTEMS / BACKEND`
+#### ⚡ <a href="https://github.com/ravishkansal22">**OptiFlow**</a>
+
 Agentic logistics intelligence system for dispatch optimization, route analysis and operational decision support.
-</div>
-<div style="margin-bottom: 12px;">
-<code>Python</code> · <code>FastAPI</code> · <code>AI Agents</code> · <code>Optimization</code>
-</div>
-<div style="font-family: 'Fira Code', monospace; font-size: 11px; color: #8B949E;">
--&gt; Agentic logistics intelligence
-</div>
+
+<br/>
+
+`Python` · `FastAPI` · `AI Agents` · `Optimization`
+
+<br/>
+
+▸ **Type:** `Agentic Logistics Intelligence`
+
 </td>
 </tr>
 </table>
@@ -226,31 +226,33 @@ Agentic logistics intelligence system for dispatch optimization, route analysis 
 
 ### ~/ stack
 
-<table width="100%" style="background-color: transparent; border: none;">
+<table width="100%">
 <tr>
-<td width="50%" align="center" style="border: none; padding: 6px;">
+<td width="50%" align="center">
 <img src="assets/radar_claim.svg" width="100%" alt="Research & Systems Focus Radar Chart" />
 </td>
-<td width="50%" align="center" style="border: none; padding: 6px;">
+<td width="50%" align="center">
 <img src="assets/radar_history.svg" width="100%" alt="Engineering Stack & Telemetry Radar Chart" />
 </td>
 </tr>
 </table>
 
-<div align="center" style="font-family: 'Fira Code', monospace; font-size: 11px; color: #8B949E; margin-top: 6px;">
-<code>left: research &amp; systems vectors * right: active engineering stack &amp; telemetry.</code>
+<div align="center">
+<sub>left: research &amp; systems vectors &nbsp;|&nbsp; right: active engineering stack &amp; telemetry</sub>
 </div>
 
 <br/>
 
-<table width="100%" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px;">
+<table width="100%">
 <tr>
-<td style="padding: 16px 20px; font-family: 'Fira Code', monospace; font-size: 12px; color: #C9D1D9; line-height: 1.8;">
-<div><b style="color: #58A6FF;">LANGUAGES:</b> Python, C++, JavaScript, TypeScript, SQL</div>
-<div><b style="color: #7EE787;">AI / ML:</b> PyTorch, TensorFlow, Scikit-learn, Computer Vision (OpenCV, MediaPipe), NLP, Speech Separation (SpeechBrain, SepFormer)</div>
-<div><b style="color: #58A6FF;">AI SYSTEMS / LLM:</b> RAG, LangChain, LangGraph, Agentic AI, Embeddings, ChromaDB, Knowledge Graph Modeling</div>
-<div><b style="color: #F0883E;">BACKEND &amp; DB:</b> FastAPI, Python APIs, PostgreSQL, SQLAlchemy, Alembic</div>
-<div><b style="color: #8B949E;">FRONTEND &amp; TOOLS:</b> Next.js, React, Git, GitHub, Jupyter, Hugging Face, Supabase</div>
+<td style="padding: 16px 20px; line-height: 1.8;">
+
+- 🔹 **LANGUAGES:** `Python` · `C++` · `JavaScript` · `TypeScript` · `SQL`
+- 🧠 **AI / ML:** `PyTorch` · `TensorFlow` · `Scikit-learn` · `OpenCV` · `MediaPipe` · `SpeechBrain` · `SepFormer`
+- 🤖 **AI SYSTEMS & LLM:** `RAG` · `LangChain` · `LangGraph` · `Agentic AI` · `Embeddings` · `ChromaDB` · `Knowledge Graphs`
+- ⚙️ **BACKEND & DB:** `FastAPI` · `PostgreSQL` · `SQLAlchemy` · `Alembic` · `REST APIs`
+- 🛠️ **FRONTEND & TOOLS:** `Next.js` · `React` · `Git` · `GitHub` · `Jupyter` · `Hugging Face` · `Supabase`
+
 </td>
 </tr>
 </table>
@@ -272,14 +274,12 @@ Agentic logistics intelligence system for dispatch optimization, route analysis 
 
 ### ~/ comms
 
-<table width="100%" style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px; padding: 14px;">
-<tr>
-<td align="center" style="font-family: 'Fira Code', monospace; font-size: 12px; color: #8B949E;">
-<a href="https://github.com/ravishkansal22" style="color: #58A6FF; text-decoration: none;">[ github.com/ravishkansal22 ]</a>
-&nbsp;&nbsp;&bull;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ravish-kansal-7a86b4376/" style="color: #58A6FF; text-decoration: none;">[ linkedin.com/in/ravish-kansal ]</a>
-&nbsp;&nbsp;&bull;&nbsp;&nbsp;
-<a href="mailto:ravishkansalrk22@gmail.com" style="color: #58A6FF; text-decoration: none;">[ email: ravishkansalrk22@gmail.com ]</a>
-</td>
-</tr>
-</table>
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-ravishkansal22-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ravishkansal22)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ravish--kansal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravish-kansal-7a86b4376/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-ravishkansalrk22%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravishkansalrk22@gmail.com)
+
+</div>
