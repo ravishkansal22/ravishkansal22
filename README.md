@@ -1,109 +1,62 @@
 <div align="center">
 
-# Ravish Kansal
+```bash
+[ ravish-kansal@research-terminal ~ ] $ whoami --verbose --status=active
+```
 
-**AI/ML Systems Engineer & Researcher**  
-*Delhi Technological University (DTU)*
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-ravishkansal22-161B22?style=flat-square&logo=github&logoColor=58A6FF)](https://github.com/ravishkansal22)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ravish--kansal-161B22?style=flat-square&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/ravish-kansal-7a86b4376/)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-ravishkansalrk22%40gmail.com-161B22?style=flat-square&logo=gmail&logoColor=58A6FF)](mailto:ravishkansalrk22@gmail.com)
-
-<br/><br/>
+</div>
 
 <table width="100%">
 <tr>
-<td width="36%" align="center" valign="middle">
+<td width="34%" align="center" valign="middle">
   <a href="https://github.com/ravishkansal22">
     <img src="assets/profile_card.svg" width="100%" alt="Ravish Kansal" />
   </a>
 </td>
-<td width="64%" valign="top" style="padding: 16px 20px;">
+<td width="66%" valign="top">
 
-### Overview
-
-I build machine learning systems at the intersection of agentic architectures, scientific knowledge extraction, and deep learning. My work focuses on constructing structured knowledge graphs from unstructured domain literature, designing reliable agent reasoning pipelines, and developing multimodal speech and vision models.
-
-- **Institution:** Delhi Technological University (DTU)
-- **Location:** Delhi / NCR, India
-- **Core Domains:** AI/ML Systems &bull; Agentic RAG &bull; Knowledge Graphs &bull; Audio AI
-- **Primary Research:** ResearchGraph (Automated Scientific Knowledge Discovery)
-
-```
-[ Python ]  [ PyTorch ]  [ LangGraph ]  [ Neo4j ]  [ FastAPI ]  [ C++ ]  [ TypeScript ]
-```
-
-<div align="left">
-  <a href="#experience"><b>Experience</b></a> &nbsp;&bull;&nbsp;
-  <a href="#research-focus"><b>Research</b></a> &nbsp;&bull;&nbsp;
-  <a href="#selected-projects"><b>Projects</b></a> &nbsp;&bull;&nbsp;
-  <a href="#technical-stack"><b>Stack</b></a> &nbsp;&bull;&nbsp;
-  <a href="#connect"><b>Contact</b></a>
+<div align="right">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE%20%E2%97%8F-238636?style=for-the-badge&logo=statuspage&logoColor=white" alt="Online" />
+  <img src="https://img.shields.io/badge/NODE-RESEARCH--01-1f6feb?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Node" />
 </div>
 
-</td>
-</tr>
-</table>
+<code>&gt; whoami</code>
+<h2><b>Ravish Kansal</b></h2>
 
-</div>
+<p>
+  <img src="https://img.shields.io/badge/AI%2FML_Engineer-1f6feb?style=flat-square&logo=google-cloud&logoColor=white" alt="AI/ML Engineer" />
+  <img src="https://img.shields.io/badge/Researcher-238636?style=flat-square&logo=arxiv&logoColor=white" alt="Researcher" />
+  <img src="https://img.shields.io/badge/Systems_Builder-d29922?style=flat-square&logo=arch-linux&logoColor=white" alt="Systems Builder" />
+  <img src="https://img.shields.io/badge/Open_Source-8957e5?style=flat-square&logo=github&logoColor=white" alt="Open Source" />
+</p>
+
+> *Building AI systems at the intersection of machine learning, agentic architectures, and scientific discovery.*
+
+<hr/>
+
+▸ **Location:** Delhi / NCR, India<br/>
+▸ **Education:** Delhi Technological University (DTU) — B.Tech (ME)<br/>
+▸ **Core Domain:** AI/ML · LLM Systems · Agentic AI · Scientific Knowledge Graphs<br/>
+▸ **Primary Focus:** `ResearchGraph` · Deep Learning Systems · Audio AI
+
+<hr/>
+
+**`ACTIVE STACK`**
 
 <br/>
 
-## Experience
-
-### SDET Intern &bull; [Autoload AI Systems](https://github.com/ravishkansal22)
-`2026 — Present` &nbsp;|&nbsp; `Active` &nbsp;|&nbsp; `Software Engineering & Quality Infrastructure`
-
-> **Focus:** System Reliability, Test Automation & AI Quality Infrastructure
-
-- **Automated Validation:** Architected automated validation pipelines and end-to-end test harnesses for AI model inference services.
-- **Performance Benchmarking:** Executed stress analysis, latency profiling, and throughput benchmarking across asynchronous workloads.
-- **Quality Infrastructure:** Integrated CI/CD validation gates to ensure strict API contract verification, reliability metrics, and comprehensive test coverage.
-
-`PyTest` &bull; `Python` &bull; `FastAPI` &bull; `CI/CD` &bull; `System Benchmarking` &bull; `Reliability Engineering`
-
-<br/>
-
-## Research Focus
-
-<img src="assets/research_pipeline.svg" width="100%" alt="Scientific Knowledge Extraction & Discovery Pipeline" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
+<img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace" />
 
 <br/><br/>
 
-<table width="100%">
-<tr>
-<td width="33.3%" valign="top" style="padding: 16px;">
-
-#### Knowledge Graphs & Extraction
-Building systems that extract scientific entities, relationships, and hypotheses from dense literature into high-dimensional, queryable knowledge graphs.
-
-<br/>
-
-*Focus:* Information Extraction, Graph Databases, Semantic Discovery
-
-</td>
-<td width="33.3%" valign="top" style="padding: 16px;">
-
-#### Agentic AI & RAG
-Designing modular multi-agent orchestration workflows, contextual vector retrieval, and self-correcting reasoning agents over extensive technical corpora.
-
-<br/>
-
-*Focus:* LangGraph, Multi-Agent Systems, Hybrid Search
-
-</td>
-<td width="33.3%" valign="top" style="padding: 16px;">
-
-#### Multimodal & Audio AI
-Investigating deep learning architectures for multi-speaker speech separation (SepFormer, TF-Locoformer) and low-latency computer vision interfaces.
-
-<br/>
-
-*Focus:* SpeechBrain, PyTorch, Real-Time Inference
+<a href="#-experience"><code>[&gt;_ experience]</code></a> &nbsp;|&nbsp; <a href="#-research"><code>[// research]</code></a> &nbsp;|&nbsp; <a href="#-selected-work"><code>[◈ projects]</code></a> &nbsp;|&nbsp; <a href="#-stack"><code>[stack]</code></a> &nbsp;|&nbsp; <a href="#-comms"><code>[@ contact]</code></a>
 
 </td>
 </tr>
@@ -111,78 +64,43 @@ Investigating deep learning architectures for multi-speaker speech separation (S
 
 <br/>
 
-## Selected Projects
+### ~/ experience
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top" style="padding: 16px;">
+<td width="100%" style="padding: 20px 24px;">
 
-### [ResearchGraph](https://github.com/ravishkansal22)
-*Scientific Literature Intelligence System*
+<div align="right">
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE%20%E2%97%8F-238636?style=for-the-badge&logoColor=white" alt="Status Active" />
+  <img src="https://img.shields.io/badge/TIMELINE-2026--PRESENT-1f6feb?style=for-the-badge&logoColor=white" alt="Timeline 2026" />
+</div>
 
-End-to-end framework for parsing scientific papers, extracting structured entities, building persistent knowledge graphs, and uncovering cross-paper research gaps.
+<code>&gt; current_role</code>
 
-- **Stack:** Python, Neo4j, LangGraph, Vector Search
-- **Status:** Active Research Project
+<h3><b>SDET Intern</b> &nbsp;&bull;&nbsp; <a href="https://github.com/ravishkansal22"><b>Autoload AI Systems Pvt. Ltd.</b></a></h3>
 
-</td>
-<td width="50%" valign="top" style="padding: 16px;">
+<p>
+  <img src="https://img.shields.io/badge/Domain-Software_Engineering-161B22?style=flat-square&logo=visualstudiocode&logoColor=58A6FF" alt="Software Engineering" />
+  <img src="https://img.shields.io/badge/Focus-Test_Automation-161B22?style=flat-square&logo=pytest&logoColor=7EE787" alt="Test Automation" />
+  <img src="https://img.shields.io/badge/Core-System_Reliability-161B22?style=flat-square&logo=linux&logoColor=FFA657" alt="System Reliability" />
+  <img src="https://img.shields.io/badge/Benchmarking-Performance-161B22?style=flat-square&logo=speedtest&logoColor=D2A8FF" alt="Performance" />
+</p>
 
-### [Nagrik](https://github.com/ravishkansal22)
-*AI-Powered Civic Platform*
+<br/>
 
-Civic intelligence platform featuring automated scheme discovery, voice-assisted application workflows, and grievance routing for public governance.
+▸ **Key Focus Areas & Impact:**
+- **Automated Validation:** Developing automated validation pipelines and comprehensive test frameworks for AI applications.
+- **Performance Scripting:** Conducting stress analysis, latency benchmarking, and system reliability testing across asynchronous services.
+- **System Scalability:** Ensuring robust software engineering practices, CI/CD validation gates, and complete test coverage.
 
-- **Stack:** FastAPI, AI Agents, Voice AI, RAG
-- **Recognition:** SIH Decode &mdash; Second Runner-Up
+<br/>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" style="padding: 16px;">
-
-### [Sonic Split](https://github.com/ravishkansal22)
-*Deep Learning Audio Separation*
-
-Multi-speaker speech separation system built with SpeechBrain, SepFormer, and TF-Locoformer, coupled with an adaptive audio preprocessing engine.
-
-- **Stack:** PyTorch, SpeechBrain, SepFormer, Audio Signal Processing
-- **Focus:** Multi-Speaker Source Separation
-
-</td>
-<td width="50%" valign="top" style="padding: 16px;">
-
-### [Arogya OS](https://github.com/ravishkansal22)
-*Healthcare Intelligence Architecture*
-
-Longitudinal clinical data engine providing health record synthesis, diagnostic report interpretation, and automated patient workflow management.
-
-- **Stack:** FastAPI, RAG, Python, Clinical Knowledge Representation
-- **Status:** Prototype & Architecture Specification
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" style="padding: 16px;">
-
-### [GestureOS / Zesture](https://github.com/ravishkansal22/GestureOS)
-*Real-Time Vision Interface*
-
-Touchless OS navigation interface powered by low-latency hand gesture tracking and real-time computer vision inference.
-
-- **Stack:** OpenCV, MediaPipe, TensorFlow/Keras, Python
-- **Focus:** Real-Time Computer Vision
-
-</td>
-<td width="50%" valign="top" style="padding: 16px;">
-
-### [OptiFlow](https://github.com/ravishkansal22)
-*Agentic Logistics Optimization*
-
-Decision-support engine for dispatch scheduling, route optimization, and operational telemetry in freight logistics.
-
-- **Stack:** Python, FastAPI, Multi-Agent Systems, Linear Optimization
-- **Focus:** Operations Research & Agentic Workflows
+<img src="https://img.shields.io/badge/PyTest-161B22?style=flat-square&logo=pytest&logoColor=0A9EDC" alt="PyTest" />
+<img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+<img src="https://img.shields.io/badge/FastAPI-161B22?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
+<img src="https://img.shields.io/badge/CI%2FCD-161B22?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
+<img src="https://img.shields.io/badge/Benchmarking-161B22?style=flat-square&logo=speedtest&logoColor=D29922" alt="Benchmarking" />
+<img src="https://img.shields.io/badge/System_Reliability-161B22?style=flat-square&logo=linux&logoColor=8957E5" alt="Reliability" />
 
 </td>
 </tr>
@@ -190,52 +108,240 @@ Decision-support engine for dispatch scheduling, route optimization, and operati
 
 <br/>
 
-## Technical Stack
+### ~/ research
+
+<table width="100%">
+<tr>
+<td width="33.3%" valign="top" style="padding: 18px;">
+
+<img src="https://img.shields.io/badge/VECTOR_01-KNOWLEDGE_GRAPHS-58A6FF?style=for-the-badge&logo=neo4j&logoColor=white" width="100%" alt="Vector 01" />
+
+<br/><br/>
+
+#### **Research Graphs**
+Building systems that extract complex scientific knowledge, entities, and hypotheses from multi-source literature into high-dimensional queryable research graphs.
+
+<br/>
+
+`Information Extraction` · `Graph DB` · `Discovery`
+
+</td>
+<td width="33.3%" valign="top" style="padding: 18px;">
+
+<img src="https://img.shields.io/badge/VECTOR_02-AGENTIC_RAG-7EE787?style=for-the-badge&logo=langchain&logoColor=white" width="100%" alt="Vector 02" />
+
+<br/><br/>
+
+#### **Agentic AI & RAG**
+Designing modular multi-agent workflows, contextual retrieval, and self-correcting reasoning agents over extensive domain corpora.
+
+<br/>
+
+`LangGraph` · `Vector Retrieval` · `Multi-Agent`
+
+</td>
+<td width="33.3%" valign="top" style="padding: 18px;">
+
+<img src="https://img.shields.io/badge/VECTOR_03-MULTIMODAL_AI-FFA657?style=for-the-badge&logo=huggingface&logoColor=black" width="100%" alt="Vector 03" />
+
+<br/><br/>
+
+#### **Multimodal & Audio AI**
+Exploring deep-learning architectures for multi-speaker speech separation (SepFormer / TF-Locoformer) and real-time computer vision interfaces.
+
+<br/>
+
+`SpeechBrain` · `PyTorch` · `Computer Vision`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### ~/ selected-work
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top" style="padding: 18px;">
+
+<img src="https://img.shields.io/badge/FLAGSHIP_RESEARCH-ACTIVE-1f6feb?style=flat-square&logo=scientificcomputing&logoColor=white" />
+
+#### <a href="https://github.com/ravishkansal22">**ResearchGraph**</a>
+Scientific literature intelligence system focused on document processing, scientific information extraction, knowledge representation, research graph construction, and hypothesis discovery.
+
+<br/>
+
+<img src="https://img.shields.io/badge/Research-1f6feb?style=flat-square" />
+<img src="https://img.shields.io/badge/Knowledge_Graphs-008CC1?style=flat-square" />
+<img src="https://img.shields.io/badge/Agentic_RAG-238636?style=flat-square" />
+<img src="https://img.shields.io/badge/Scientific_AI-8957e5?style=flat-square" />
+
+<br/><br/>
+
+▸ **Status:** `Active Long-Term Research Project`
+
+</td>
+<td width="50%" valign="top" style="padding: 18px;">
+
+<img src="https://img.shields.io/badge/CIVIC--TECH-HACKATHON_WINNER-d29922?style=flat-square&logo=trophy&logoColor=white" />
+
+#### <a href="https://github.com/ravishkansal22">**Nagrik**</a>
+AI-powered civic platform for scheme discovery, voice-assisted form filling, grievance workflows, and government decision intelligence.
+
+<br/>
+
+<img src="https://img.shields.io/badge/AI_Agents-8957e5?style=flat-square" />
+<img src="https://img.shields.io/badge/Voice_AI-f778ba?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-238636?style=flat-square" />
+<img src="https://img.shields.io/badge/CivicTech-d29922?style=flat-square" />
+
+<br/><br/>
+
+▸ **Achievement:** `SIH Decode — Second Runner-Up`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" style="padding: 18px;">
+
+<img src="https://img.shields.io/badge/AUDIO_AI-DEEP_LEARNING-8957e5?style=flat-square&logo=audiomack&logoColor=white" />
+
+#### <a href="https://github.com/ravishkansal22">**Sonic Split**</a>
+Multi-speaker audio separation research using SpeechBrain, SepFormer, and TF-Locoformer, equipped with an Adaptive Audio Preprocessing Engine.
+
+<br/>
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square" />
+<img src="https://img.shields.io/badge/SepFormer-58A6FF?style=flat-square" />
+<img src="https://img.shields.io/badge/SpeechBrain-FFD21E?style=flat-square&logoColor=black" />
+<img src="https://img.shields.io/badge/Audio_AI-8957e5?style=flat-square" />
+
+<br/><br/>
+
+▸ **Focus:** `Audio Preprocessing & Separation Research`
+
+</td>
+<td width="50%" valign="top" style="padding: 18px;">
+
+<img src="https://img.shields.io/badge/HEALTHCARE_AI-PROTOTYPE-009688?style=flat-square&logo=health-and-safety&logoColor=white" />
+
+#### <a href="https://github.com/ravishkansal22">**Arogya OS**</a>
+AI healthcare operating-system concept exploring longitudinal health memory, health twins, report interpretation, voice workflows, and queue intelligence.
+
+<br/>
+
+<img src="https://img.shields.io/badge/Healthcare_AI-009688?style=flat-square" />
+<img src="https://img.shields.io/badge/AI_Agents-8957e5?style=flat-square" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-238636?style=flat-square" />
+
+<br/><br/>
+
+▸ **Status:** `Architecture Concept & Prototype`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" style="padding: 18px;">
+
+<img src="https://img.shields.io/badge/COMPUTER_VISION-REAL--TIME-58a6ff?style=flat-square&logo=opencv&logoColor=white" />
+
+#### <a href="https://github.com/ravishkansal22/GestureOS">**GestureOS / Zesture**</a>
+Gesture-controlled OS interface using MediaPipe, OpenCV, and TensorFlow/Keras with low-latency real-time camera inference.
+
+<br/>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square" />
+<img src="https://img.shields.io/badge/MediaPipe-00A98F?style=flat-square" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square" />
+<img src="https://img.shields.io/badge/Computer_Vision-58A6FF?style=flat-square" />
+
+<br/><br/>
+
+▸ **Type:** `Real-time Vision System`
+
+</td>
+<td width="50%" valign="top" style="padding: 18px;">
+
+<img src="https://img.shields.io/badge/LOGISTICS_AI-BACKEND-d29922?style=flat-square&logo=fastapi&logoColor=white" />
+
+#### <a href="https://github.com/ravishkansal22">**OptiFlow**</a>
+Agentic logistics intelligence system for dispatch optimization, dynamic route analysis, and operational decision support.
+
+<br/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square" />
+<img src="https://img.shields.io/badge/AI_Agents-8957E5?style=flat-square" />
+<img src="https://img.shields.io/badge/Optimization-D29922?style=flat-square" />
+
+<br/><br/>
+
+▸ **Type:** `Agentic Logistics Intelligence`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### ~/ stack
 
 <table width="100%">
 <tr>
 <td width="50%" align="center" style="padding: 10px;">
-  <img src="assets/radar_claim.svg" width="100%" alt="Research and Systems Focus" />
+  <img src="assets/radar_claim.svg" width="100%" alt="Research & Systems Focus Radar Chart" />
 </td>
 <td width="50%" align="center" style="padding: 10px;">
-  <img src="assets/radar_history.svg" width="100%" alt="Engineering Stack and Telemetry" />
+  <img src="assets/radar_history.svg" width="100%" alt="Engineering Stack & Telemetry Radar Chart" />
+</td>
+</tr>
+</table>
+
+<div align="center">
+<sub>left: research &amp; systems vectors &nbsp;|&nbsp; right: active engineering stack &amp; telemetry</sub>
+</div>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="100%" style="padding: 20px 24px; line-height: 2.0;">
+
+- <img src="https://img.shields.io/badge/LANGUAGES-1f6feb?style=flat-square" alt="Languages" /> `Python` · `C++` · `JavaScript` · `TypeScript` · `SQL`
+- <img src="https://img.shields.io/badge/AI_%2F_ML-238636?style=flat-square" alt="AI/ML" /> `PyTorch` · `TensorFlow` · `Scikit-learn` · `OpenCV` · `MediaPipe` · `SpeechBrain` · `SepFormer`
+- <img src="https://img.shields.io/badge/AI_SYSTEMS_%26_LLM-8957e5?style=flat-square" alt="AI Systems" /> `RAG` · `LangChain` · `LangGraph` · `Agentic AI` · `Embeddings` · `ChromaDB` · `Knowledge Graphs`
+- <img src="https://img.shields.io/badge/BACKEND_%26_DB-d29922?style=flat-square" alt="Backend & DB" /> `FastAPI` · `PostgreSQL` · `SQLAlchemy` · `Alembic` · `REST APIs`
+- <img src="https://img.shields.io/badge/FRONTEND_%26_TOOLS-db61a2?style=flat-square" alt="Tools" /> `Next.js` · `React` · `Git` · `GitHub` · `Jupyter` · `Hugging Face` · `Supabase`
+
 </td>
 </tr>
 </table>
 
 <br/>
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Python, C++, TypeScript, JavaScript, SQL |
-| **Machine Learning & Vision** | PyTorch, TensorFlow, Scikit-learn, OpenCV, MediaPipe, SpeechBrain, SepFormer |
-| **AI Systems & LLMs** | LangGraph, LangChain, Agentic RAG, Vector Databases, ChromaDB, Neo4j, Knowledge Graphs |
-| **Backend & Data** | FastAPI, PostgreSQL, SQLAlchemy, Alembic, REST APIs, Redis |
-| **Tooling & Environments** | Git, GitHub Actions, Docker, Linux, Jupyter, Hugging Face |
+### ~/ open-questions
 
-<br/>
-
-## Research Inquiries
-
-```
-01. Construction of continuously evolving scientific knowledge graphs from literature
-02. Systematic detection of research gaps across multi-domain corpora
-03. Representation of negative findings and dead-ends as first-class knowledge
-04. Grounded agentic deep research without hallucinations or superficial synthesis
-05. Structured representation of multimodal scientific evidence
-06. Quantitative evaluation metrics for the novelty of AI-generated hypotheses
+```text
+01 - How can an AI system construct a continuously evolving graph of scientific knowledge from literature?
+02 - Can research gaps be detected systematically rather than through manual literature review?
+03 - How can negative results and dead ends be represented as first-class scientific knowledge?
+04 - Can agentic systems perform reliable deep research without simply generating plausible text?
+05 - How can multimodal scientific evidence be represented in a machine-readable knowledge system?
+06 - How do we evaluate whether an AI-generated research hypothesis is actually novel?
 ```
 
 <br/>
 
-## Connect
+### ~/ comms
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-ravishkansal22-161B22?style=flat-square&logo=github&logoColor=58A6FF)](https://github.com/ravishkansal22)
+[![GitHub](https://img.shields.io/badge/GitHub-ravishkansal22-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ravishkansal22)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ravish--kansal-161B22?style=flat-square&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/ravish-kansal-7a86b4376/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ravish--kansal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravish-kansal-7a86b4376/)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-ravishkansalrk22%40gmail.com-161B22?style=flat-square&logo=gmail&logoColor=58A6FF)](mailto:ravishkansalrk22@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ravishkansalrk22%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravishkansalrk22@gmail.com)
 
 </div>
