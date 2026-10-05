@@ -59,22 +59,29 @@
 
 <table width="100%">
 <tr>
-<td style="padding: 16px 20px;">
+<td style="padding: 18px 22px;">
 
-<code>&gt; role.exe --status=active</code> &nbsp;&nbsp;&bull;&nbsp;&nbsp; <code>● ACTIVE · 2026</code>
+<div align="right">
+<img src="https://img.shields.io/badge/STATUS-ACTIVE%20%E2%97%8F-238636?style=flat-square&logoColor=white" alt="Status" />
+<img src="https://img.shields.io/badge/TIMELINE-2026-1f6feb?style=flat-square&logoColor=white" alt="Timeline" />
+</div>
 
-<h3><b>SDET INTERN</b> &nbsp;|&nbsp; <a href="https://github.com/ravishkansal22">Autoload AI Systems Pvt. Ltd.</a></h3>
+<code>&gt; role.exe --status=active</code>
 
-*Software Engineering · Test Automation · System Reliability*
+### 🛠️ **SDET Intern** &nbsp;•&nbsp; **Autoload AI Systems Pvt. Ltd.**
 
-> Software testing, automation, performance scripting, and software reliability/scalability.
+**Domain:** `Software Engineering` · `Test Automation` · `System Reliability`
 
 <br/>
 
-<img src="https://img.shields.io/badge/%E2%97%8F_Test_Automation-161B22?style=flat-square&color=21262D&labelColor=161B22&logoColor=58A6FF" alt="Test Automation" />
-<img src="https://img.shields.io/badge/%E2%97%8F_Software_Testing-161B22?style=flat-square&color=21262D&labelColor=161B22&logoColor=58A6FF" alt="Software Testing" />
-<img src="https://img.shields.io/badge/%E2%97%8F_Performance-161B22?style=flat-square&color=21262D&labelColor=161B22&logoColor=58A6FF" alt="Performance" />
-<img src="https://img.shields.io/badge/%E2%97%8F_Reliability-161B22?style=flat-square&color=21262D&labelColor=161B22&logoColor=58A6FF" alt="Reliability" />
+▸ Software testing, automation frameworks, performance scripting, and software reliability & scalability.
+
+<br/>
+
+<img src="https://img.shields.io/badge/Test_Automation-1f6feb?style=flat-square&logo=pytest&logoColor=white" alt="Test Automation" />
+<img src="https://img.shields.io/badge/Software_Testing-238636?style=flat-square&logo=testinglibrary&logoColor=white" alt="Software Testing" />
+<img src="https://img.shields.io/badge/Performance-d29922?style=flat-square&logo=speedtest&logoColor=white" alt="Performance" />
+<img src="https://img.shields.io/badge/Reliability-8957e5?style=flat-square&logo=datadog&logoColor=white" alt="Reliability" />
 
 </td>
 </tr>
