@@ -8,7 +8,7 @@
 
 <table width="100%">
 <tr>
-<td width="33%" align="center" valign="top">
+<td width="33%" align="center" valign="middle">
   <a href="https://github.com/ravishkansal22">
     <img src="assets/profile_card.svg" width="100%" alt="Ravish Kansal" />
   </a>
@@ -54,7 +54,7 @@
 
 <div align="center">
 
-[`[ 01. Experience ]`](#-experience) &nbsp;•&nbsp; [`[ 02. Research ]`](#-research) &nbsp;•&nbsp; [`[ 03. Selected Work ]`](#-selected-work) &nbsp;•&nbsp; [`[ 04. Stack ]`](#-stack) &nbsp;•&nbsp; [`[ 05. Comms ]`](#-comms)
+[`[ 01. Experience ]`](#-experience) &nbsp;•&nbsp; [`[ 02. Area of Interest ]`](#-area-of-interest) &nbsp;•&nbsp; [`[ 03. Selected Work ]`](#-selected-work) &nbsp;•&nbsp; [`[ 04. Stack ]`](#-stack) &nbsp;•&nbsp; [`[ 05. Comms ]`](#-comms)
 
 </div>
 
@@ -108,7 +108,7 @@
 
 <br/>
 
-### ~/ research
+### ~/ area-of-interest
 
 <table width="100%">
 <tr>
@@ -318,19 +318,6 @@ Agentic logistics intelligence system for dispatch optimization, dynamic route a
 </td>
 </tr>
 </table>
-
-<br/>
-
-### ~/ open-questions
-
-```text
-01 - How can an AI system construct a continuously evolving graph of scientific knowledge from literature?
-02 - Can research gaps be detected systematically rather than through manual literature review?
-03 - How can negative results and dead ends be represented as first-class scientific knowledge?
-04 - Can agentic systems perform reliable deep research without simply generating plausible text?
-05 - How can multimodal scientific evidence be represented in a machine-readable knowledge system?
-06 - How do we evaluate whether an AI-generated research hypothesis is actually novel?
-```
 
 <br/>
 
