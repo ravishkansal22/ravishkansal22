@@ -5,13 +5,15 @@
 **AI/ML Engineer & Systems Researcher**  
 *Delhi Technological University (DTU)*
 
-[![GitHub](https://img.shields.io/badge/GitHub-ravishkansal22-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ravishkansal22)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ravish--kansal-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravish-kansal-7a86b4376/)
-[![Email](https://img.shields.io/badge/Email-ravishkansalrk22%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ravishkansalrk22@gmail.com)
-
-</div>
-
 <br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-ravishkansal22-161B22?style=flat-square&logo=github&logoColor=58A6FF)](https://github.com/ravishkansal22)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ravish--kansal-161B22?style=flat-square&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/ravish-kansal-7a86b4376/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-ravishkansalrk22%40gmail.com-161B22?style=flat-square&logo=gmail&logoColor=58A6FF)](mailto:ravishkansalrk22@gmail.com)
+
+<br/><br/>
 
 <table width="100%">
 <tr>
@@ -20,7 +22,7 @@
     <img src="assets/profile_card.svg" width="100%" alt="Ravish Kansal" />
   </a>
 </td>
-<td width="64%" valign="top" style="padding-left: 20px;">
+<td width="64%" valign="top" style="padding: 16px 20px;">
 
 ### Overview
 
@@ -47,42 +49,23 @@ I build machine learning systems at the intersection of agentic architectures, s
 </tr>
 </table>
 
+</div>
+
 <br/>
 
 ## Experience
 
-<table width="100%">
-<tr>
-<td width="100%" style="padding: 16px 20px;">
+<a href="https://github.com/ravishkansal22">
+  <img src="assets/experience_card.svg" width="100%" alt="SDET Intern at Autoload AI Systems" />
+</a>
 
-<table width="100%" style="border: none;">
-<tr>
-<td align="left">
-  <h3><b>SDET Intern</b> &mdash; <a href="https://github.com/ravishkansal22">Autoload AI Systems</a></h3>
-</td>
-<td align="right" valign="middle">
-  <code>2026 &mdash; Present</code> &nbsp;|&nbsp; <b>Active</b>
-</td>
-</tr>
-</table>
-
-**Domain:** Software Engineering & Quality Infrastructure &nbsp;&bull;&nbsp; **Core:** System Reliability & Test Automation
-
-- Engineered automated validation pipelines and comprehensive test harnesses for core AI application services.
-- Conducted stress testing, latency benchmarking, and performance regression analysis across asynchronous workloads.
-- Integrated CI/CD validation gates to ensure reliable test coverage, API contract verification, and service stability.
-
-<br/>
-
-`PyTest` &bull; `Python` &bull; `FastAPI` &bull; `CI/CD` &bull; `System Benchmarking` &bull; `Reliability Engineering`
-
-</td>
-</tr>
-</table>
-
-<br/>
+<br/><br/>
 
 ## Research Focus
+
+<img src="assets/research_pipeline.svg" width="100%" alt="Scientific Knowledge Extraction & Discovery Pipeline" />
+
+<br/><br/>
 
 <table width="100%">
 <tr>
@@ -242,10 +225,10 @@ Decision-support engine for dispatch scheduling, route optimization, and operati
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-ravishkansal22-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ravishkansal22)
+[![GitHub](https://img.shields.io/badge/GitHub-ravishkansal22-161B22?style=flat-square&logo=github&logoColor=58A6FF)](https://github.com/ravishkansal22)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ravish--kansal-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravish-kansal-7a86b4376/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ravish--kansal-161B22?style=flat-square&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/ravish-kansal-7a86b4376/)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-ravishkansalrk22%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ravishkansalrk22@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ravishkansalrk22%40gmail.com-161B22?style=flat-square&logo=gmail&logoColor=58A6FF)](mailto:ravishkansalrk22@gmail.com)
 
 </div>
