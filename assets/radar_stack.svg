@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 370" width="100%" height="100%">
+  <defs>
+    <linearGradient id="grad-claim" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1F6FEB" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#58A6FF" stop-opacity="0.12"/>
+    </linearGradient>
+    <linearGradient id="grad-history" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#238636" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#7EE787" stop-opacity="0.12"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Left Card: Research & Systems Focus -->
+  <g transform="translate(0, 0)">
+    <rect width="472" height="370" fill="#0D1117" rx="10" stroke="#30363D" stroke-width="1.5"/>
+    <rect x="16" y="16" width="7" height="7" fill="#58A6FF" rx="3.5"/>
+    <text x="30" y="23" fill="#58A6FF" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-weight="600" font-size="12" letter-spacing="0.5">&gt; research &amp; systems focus</text>
+    
+    <g transform="translate(-4, 0)">
+      <!-- Grid Polygons -->
+      <polygon points="240.0,170.0 257.7,177.3 265.0,195.0 257.7,212.7 240.0,220.0 222.3,212.7 215.0,195.0 222.3,177.3" fill="none" stroke="#21262D" stroke-dasharray="3,3" stroke-width="1.2"/>
+      <polygon points="240.0,145.0 275.4,159.6 290.0,195.0 275.4,230.4 240.0,245.0 204.6,230.4 190.0,195.0 204.6,159.6" fill="none" stroke="#21262D" stroke-dasharray="3,3" stroke-width="1.2"/>
+      <polygon points="240.0,120.0 293.0,142.0 315.0,195.0 293.0,248.0 240.0,270.0 187.0,248.0 165.0,195.0 187.0,142.0" fill="none" stroke="#21262D" stroke-dasharray="3,3" stroke-width="1.2"/>
+      <polygon points="240.0,95.0 310.7,124.3 340.0,195.0 310.7,265.7 240.0,295.0 169.3,265.7 140.0,195.0 169.3,124.3" fill="none" stroke="#21262D" stroke-dasharray="3,3" stroke-width="1.2"/>
+
+      <!-- Axis Lines & Labels -->
+      <line x1="240" y1="195" x2="240.0" y2="95.0" stroke="#30363D" stroke-width="1"/>
+      <text x="240.0" y="80.0" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" text-anchor="middle">Knowledge Graphs</text>
+
+      <line x1="240" y1="195" x2="310.7" y2="124.3" stroke="#30363D" stroke-width="1"/>
+      <text x="322.0" y="120.0" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" text-anchor="start" dy="0.3em">Agentic Systems</text>
+
+      <line x1="240" y1="195" x2="340.0" y2="195.0" stroke="#30363D" stroke-width="1"/>
+      <text x="352.0" y="195.0" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" text-anchor="start" dy="0.35em">RAG &amp; Retrieval</text>
+
+      <line x1="240" y1="195" x2="310.7" y2="265.7" stroke="#30363D" stroke-width="1"/>
+      <text x="322.0" y="272.0" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" text-anchor="start" dy="0.3em">Scientific AI</text>
+
+      <line x1="240" y1="195" x2="240.0" y2="295.0" stroke="#30363D" stroke-width="1"/>
+      <text x="240.0" y="318.0" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" text-anchor="middle" dy="0.7em">Deep Learning</text>
+
+      <line x1="240" y1="195" x2="169.3" y2="265.7" stroke="#30363D" stroke-width="1"/>
+      <text x="158.0" y="272.0" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" text-anchor="end" dy="0.3em">Audio / Speech AI</text>
+
+      <line x1="240" y1="195" x2="140.0" y2="195.0" stroke="#30363D" stroke-width="1"/>
+      <text x="128.0" y="195.0" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" text-anchor="end" dy="0.35em">Computer Vision</text>
+
+      <line x1="240" y1="195" x2="169.3" y2="124.3" stroke="#30363D" stroke-width="1"/>
+      <text x="158.0" y="120.0" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" text-anchor="end" dy="0.3em">LLM Systems</text>
+
+      <!-- Data Polygon & Points -->
+      <polygon points="240.0,103.0 302.2,132.8 330.0,195.0 300.1,255.1 240.0,281.0 184.8,250.2 160.0,195.0 177.8,132.8" fill="url(#grad-claim)" stroke="#58A6FF" stroke-width="2"/>
+      <circle cx="240.0" cy="103.0" r="4" fill="#58A6FF" stroke="#0D1117" stroke-width="1.5"/>
+      <circle cx="302.2" cy="132.8" r="4" fill="#58A6FF" stroke="#0D1117" stroke-width="1.5"/>
+      <circle cx="330.0" cy="195.0" r="4" fill="#58A6FF" stroke="#0D1117" stroke-width="1.5"/>
+      <circle cx="300.1" cy="255.1" r="4" fill="#58A6FF" stroke="#0D1117" stroke-width="1.5"/>
+      <circle cx="240.0" cy="281.0" r="4" fill="#58A6FF" stroke="#0D1117" stroke-width="1.5"/>
+      <circle cx="184.8" cy="250.2" r="4" fill="#58A6FF" stroke="#0D1117" stroke-width="1.5"/>
+      <circle cx="160.0" cy="195.0" r="4" fill="#58A6FF" stroke="#0D1117" stroke-width="1.5"/>
+      <circle cx="177.8" cy="132.8" r="4" fill="#58A6FF" stroke="#0D1117" stroke-width="1.5"/>
+    </g>
+  </g>
+
+  <!-- Right Card: Engineering Stack & Telemetry -->
+  <g transform="translate(488, 0)">
+    <rect width="472" height="370" fill="#0D1117" rx="10" stroke="#30363D" stroke-width="1.5"/>
+    <rect x="16" y="16" width="7" height="7" fill="#7EE787" rx="3.5"/>
+    <text x="30" y="23" fill="#7EE787" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-weight="600" font-size="12" letter-spacing="0.5">&gt; engineering stack &amp; telemetry</text>
+    
+    <g transform="translate(-4, 0)">
+      <!-- Grid Polygons -->
+      <polygon points="240.0,170.0 257.7,177.3 265.0,195.0 257.7,212.7 240.0,220.0 222.3,212.7 215.0,195.0 222.3,177.3" fill="none" stroke="#21262D" stroke-dasharray="3,3" stroke-width="1.2"/>
+      <polygon points="240.0,145.0 275.4,159.6 290.0,195.0 275.4,230.4 240.0,245.0 204.6,230.4 190.0,195.0 204.6,159.6" fill="none" stroke="#21262D" stroke-dasharray="3,3" stroke-width="1.2"/>
+      <polygon points="240.0,120.0 293.0,142.0 315.0,195.0 293.0,248.0 240.0,270.0 187.0,248.0 165.0,195.0 187.0,142.0" fill="none" stroke="#21262D" stroke-dasharray="3,3" stroke-width="1.2"/>
+      <polygon points="240.0,95.0 310.7,124.3 340.0,195.0 310.7,265.7 240.0,295.0 169.3,265.7 140.0,195.0 169.3,124.3" fill="none" stroke="#21262D" stroke-dasharray="3,3" stroke-width="1.2"/>
+
+      <!-- Axis Lines & Labels -->
+      <line x1="240" y1="195" x2="240.0" y2="95.0" stroke="#30363D" stroke-width="1"/>
+      <text x="240.0" y="80.0" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" text-anchor="middle">Python</text>
+
+      <line x1="240" y1="195" x2="310.7" y2="124.3" stroke="#30363D" stroke-width="1"/>
+      <text x="322.0" y="120.0" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" text-anchor="start" dy="0.3em">PyTorch</text>
+
+      <line x1="240" y1="195" x2="340.0" y2="195.0" stroke="#30363D" stroke-width="1"/>
+      <text x="352.0" y="195.0" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" text-anchor="start" dy="0.35em">FastAPI</text>
+
+      <line x1="240" y1="195" x2="310.7" y2="265.7" stroke="#30363D" stroke-width="1"/>
+      <text x="322.0" y="272.0" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" text-anchor="start" dy="0.3em">C++</text>
+
+      <line x1="240" y1="195" x2="240.0" y2="295.0" stroke="#30363D" stroke-width="1"/>
+      <text x="240.0" y="318.0" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" text-anchor="middle" dy="0.7em">LangGraph / Agents</text>
+
+      <line x1="240" y1="195" x2="169.3" y2="265.7" stroke="#30363D" stroke-width="1"/>
+      <text x="158.0" y="272.0" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" text-anchor="end" dy="0.3em">PostgreSQL</text>
+
+      <line x1="240" y1="195" x2="140.0" y2="195.0" stroke="#30363D" stroke-width="1"/>
+      <text x="128.0" y="195.0" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" text-anchor="end" dy="0.35em">Next.js / TS</text>
+
+      <line x1="240" y1="195" x2="169.3" y2="124.3" stroke="#30363D" stroke-width="1"/>
+      <text x="158.0" y="120.0" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" text-anchor="end" dy="0.3em">SpeechBrain / CV</text>
+
+      <!-- Data Polygon & Points -->
+      <polygon points="240.0,99.0 302.2,132.8 330.0,195.0 293.0,248.0 240.0,285.0 184.8,250.2 162.0,195.0 182.0,137.0" fill="url(#grad-history)" stroke="#7EE787" stroke-width="2"/>
+      <circle cx="240.0" cy="99.0" r="4" fill="#7EE787" stroke="#0D1117" stroke-width="1.5"/>
+      <circle cx="302.2" cy="132.8" r="4" fill="#7EE787" stroke="#0D1117" stroke-width="1.5"/>
+      <circle cx="330.0" cy="195.0" r="4" fill="#7EE787" stroke="#0D1117" stroke-width="1.5"/>
+      <circle cx="293.0" cy="248.0" r="4" fill="#7EE787" stroke="#0D1117" stroke-width="1.5"/>
+      <circle cx="240.0" cy="285.0" r="4" fill="#7EE787" stroke="#0D1117" stroke-width="1.5"/>
+      <circle cx="184.8" cy="250.2" r="4" fill="#7EE787" stroke="#0D1117" stroke-width="1.5"/>
+      <circle cx="162.0" cy="195.0" r="4" fill="#7EE787" stroke="#0D1117" stroke-width="1.5"/>
+      <circle cx="182.0" cy="137.0" r="4" fill="#7EE787" stroke="#0D1117" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

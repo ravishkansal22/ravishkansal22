@@ -288,16 +288,9 @@ Agentic logistics intelligence system for dispatch optimization, dynamic route a
 
 ### ~/ stack
 
-<table width="100%">
-<tr>
-<td width="50%" align="center" style="padding: 10px;">
-  <img src="assets/radar_claim.svg" width="100%" alt="Research & Systems Focus Radar Chart" />
-</td>
-<td width="50%" align="center" style="padding: 10px;">
-  <img src="assets/radar_history.svg" width="100%" alt="Engineering Stack & Telemetry Radar Chart" />
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="assets/radar_stack.svg" width="100%" alt="Research &amp; Systems Focus and Engineering Stack Radar Charts" />
+</div>
 
 <div align="center">
 <sub>left: research &amp; systems vectors &nbsp;|&nbsp; right: active engineering stack &amp; telemetry</sub>
